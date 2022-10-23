@@ -6,10 +6,10 @@ In questo profilo troverai principalmente dei repository che consistono in dei "
 
 ## Forum di scambio e confroto soluzioni sugli esercizi
 
-> ## *Metodi Matematici per l'Informatica (A.A. 21-22)**
+> ## Metodi Matematici per l'Informatica (A.A. 21-22)
 >
 > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sapienzastudentsnetwork&show_owner&repo=mmi2122&theme=radical)](https://github.com/sapienzastudentsnetwork/mmi2122)
 
-> ## *Calcolo delle Probabilità I (A.A. 22-23)**
+> ## Calcolo delle Probabilità I (A.A. 22-23)
 >
 > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sapienzastudentsnetwork&show_owner&repo=CP1-2223&theme=radical)](https://github.com/sapienzastudentsnetwork/CP1-2223)
