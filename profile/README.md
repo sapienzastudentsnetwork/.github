@@ -4,6 +4,6 @@ In questo profilo troverai principalmente dei repository che consistono in dei "
 
 È possibile che in futuro seguiranno anche progetti di altro tipo, così come siamo aperti a qualsiasi proposta al riguardo da parte vostra 🙂
 
-## Forum di scambio e confroto soluzioni agli esercizi
+## Forum di scambio e confronto soluzioni agli esercizi
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sapienzastudentsnetwork&show_owner&repo=mmi2122&theme=radical)](https://github.com/sapienzastudentsnetwork/mmi2122) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sapienzastudentsnetwork&show_owner&repo=CP1-2223&theme=radical)](https://github.com/sapienzastudentsnetwork/CP1-2223)
