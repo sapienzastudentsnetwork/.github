@@ -4,7 +4,7 @@ In questo profilo troverai principalmente dei repository che consistono in dei "
 
 È possibile che in futuro seguiranno anche progetti di altro tipo, così come siamo aperti a qualsiasi proposta al riguardo da parte vostra 🙂
 
-## Forum di scambio e confroto soluzioni sugli esercizi
+## Forum di scambio e confroto soluzioni agli esercizi
 
 > ## Metodi Matematici per l'Informatica (A.A. 21-22)
 >
