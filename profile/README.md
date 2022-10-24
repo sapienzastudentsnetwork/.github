@@ -8,4 +8,4 @@ Qui troverai principalmente dei repository che consistono in dei "forum" (realiz
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sapienzastudentsnetwork&show_owner&repo=mmi2122&theme=radical)](https://github.com/sapienzastudentsnetwork/mmi2122)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sapienzastudentsnetwork&show_owner&repo=calcprob2223&theme=radical)](https://github.com/sapienzastudentsnetwork/calcprob2223) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sapienzastudentsnetwork&show_owner&repo=algebra2223&theme=radical)](https://github.com/sapienzastudentsnetwork/algebra2223)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sapienzastudentsnetwork&show_owner&repo=calcprob2223&theme=radical)](https://github.com/sapienzastudentsnetwork/calcprob2223)
