@@ -4,4 +4,4 @@ Qui troverai principalmente dei repository che consistono in dei "forum" (realiz
 
 È possibile che in futuro seguiranno anche progetti di altro tipo, così come siamo aperti a qualsiasi proposta al riguardo da parte tua (per la quale ti ringraziamo anticipatamente) 🙂
 
-_**N.B.:** Sapienza Students Network è un'organizzazione studentesca indipendente, le iniziative e le attività che organizza sono gestite tra studenti e studentesse dell'ateneo senza che ci sia un'effettiva affiliazione o riconoscimento da parte dell'ateneo.._
+_**N.B.:** Sapienza Students Network è un'organizzazione studentesca indipendente, le iniziative e le attività che organizza sono gestite tra studenti e studentesse dell'ateneo senza che ci sia un'effettiva affiliazione o riconoscimento da parte dell'ateneo._
