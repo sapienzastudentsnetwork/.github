@@ -4,6 +4,6 @@ Qui troverai principalmente dei repository che consistono in dei "forum" (realiz
 
 È possibile che in futuro seguiranno anche progetti di altro tipo, così come siamo aperti a qualsiasi proposta al riguardo da parte tua (per la quale ti ringraziamo anticipatamente) 🙂
 
-🌐 Unisciti al nostro [canale Telegram](https://t.me/sapienzastudentsnetwork) per tenerti sempre aggiornato su eventuali novità e ulteriori iniziative utili
+🌐 Unisciti al [canale Telegram](https://t.me/sapienzastudentsnetwork) per tenerti sempre aggiornato su eventuali novità e ulteriori iniziative utili
 
 _**N.B.:** Sapienza Students Network è un'organizzazione studentesca indipendente, le iniziative e le attività che organizza sono gestite tra studenti e studentesse dell'ateneo senza che ci sia un'effettiva affiliazione o riconoscimento da parte dell'ateneo._
