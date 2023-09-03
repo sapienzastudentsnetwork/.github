@@ -8,4 +8,4 @@ Qui troverai principalmente dei repository che consistono in dei "forum" (realiz
 
 🌐 Unisciti al [canale Telegram](https://t.me/SapienzaStudentsNetwork) per tenerti sempre aggiornato su eventuali novità e ulteriori iniziative utili
 
-_**N.B.:** Sapienza Students Network è un'organizzazione studentesca indipendente, le iniziative, i progetti collaborativi e le attività che organizza sono gestite tra studenti e studentesse dell'ateneo senza che ci sia un'effettiva affiliazione o riconoscimento da parte dell'ateneo._
+_**N.B.:** Sapienza Students Network è un'organizzazione studentesca indipendente, le cui iniziative, progetti collaborativi e attività sono concepiti e gestiti interamente da studenti e studentesse dell'ateneo, senza alcuna affiliazione o riconoscimento formale da parte dell'amministrazione._
