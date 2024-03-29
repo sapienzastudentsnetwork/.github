@@ -37,7 +37,7 @@
 
   - Algebra [[A-L]](https://github.com/sapienzastudentsnetwork/algebra2324)
   - Basi di Dati I [[A-L e M-Z]](https://github.com/sapienzastudentsnetwork/bdi2324)
-  - Calcolo delle Probabilità [[Bertini]](https://github.com/sapienzastudentsnetwork/calcprob2324) [[Isopi]](https://github.com/sapienzastudentsnetwork/calcprob2223)
+  - Calcolo delle Probabilità [[Bertini]](https://github.com/sapienzastudentsnetwork/calcprob2324) [[Isopi, 2022-2023]](https://github.com/sapienzastudentsnetwork/calcprob2223)
 
 - Secondo Semestre
 
