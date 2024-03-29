@@ -130,7 +130,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 - Alessio **Bandiera** ([@aflaag](https://github.com/aflaag)) [[Telegram](https://telegram.me/aflaag)]
   - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
 
--  Jude J. **Kallarakal** ([@Antaarees](https://github.com/Antaarees)) [[Telegram](https://telegram.me/Antaareess)]
+- Jude J. **Kallarakal** ([@Antaarees](https://github.com/Antaarees)) [[Telegram](https://telegram.me/Antaareess)]
   - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
 
 - Federico **Fiorelli** ([@ref1o](https://github.com/ref1o)) [[Telegram](https://telegram.me/federicofiorelli)]
