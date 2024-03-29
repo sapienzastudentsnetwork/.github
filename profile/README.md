@@ -1,18 +1,23 @@
 # Benvenuto/a sul GitHub di Sapienza Students Network!
 
-🚀 Sapienza* Students Network è il progetto di un'organizzazione studentesca indipendente di iniziative collaborative e di comunità tra studenti e studentesse dell'Ateneo più grande d'Europa
+🚀 **Sapienza Students Network** rappresenta un ambizioso progetto intrapreso da un'organizzazione studentesca indipendente, mirato a promuovere iniziative collaborative e a favorire un senso di comunità tra gli studenti e le studentesse dell'Ateneo più grande d'Europa
 
 💬 Il focus di questa organizzazione GitHub in particolare è la realizzazione, attraverso repository GitHub, di [forum](#-forum-esercizi-e-soluzioni-2024) (realizzati tramite un README.md guida e l'utilizzo degli "issues" o delle "discussions") per lo scambio e il confronto di soluzioni agli esercizi o vecchie tracce di esame di corsi universitari per cui non sono presenti pubblicamente delle soluzioni ufficiali
 
 - Attualmente sono presenti repository di questo tipo principalmente per il corso di laurea triennale in [Informatica (29923)](https://github.com/sapienzastudentsnetwork/.github/edit/main/profile/README.md#-informatica-triennale-29923), ma non escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
 
-✨ Questa oragnizzazione comprende anche, e probabilmente ne seguiranno altre in futuro, [raccolte di esercizi](#-raccolte-di-esercizi) e [progetti di altro tipo](#-altri-progetti-interessanti), così come siamo aperti a qualsiasi proposta di nuovi repository e progetti da parte tua (per le quali ti ringraziamo anticipatamente) 🙂
+✨ Questa organizzazione comprende anche, e probabilmente ne seguiranno altre in futuro, [raccolte di esercizi](#-raccolte-di-esercizi) e [progetti di altro tipo](#-altri-progetti-interessanti), così come siamo aperti in qualsiasi moemnto a qualsiasi proposta di nuovi repository e progetti da parte tua 🙂
 
-📣 Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi gruppi Telegram disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili
+> [!TIP]
+> Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi [gruppi Telegram](https://t.me/SapienzaStudentsNetwork/7) disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili!
 
-\* _**N.B.:** Sapienza Students Network è un'organizzazione studentesca indipendente, le cui iniziative, progetti collaborativi e attività sono concepiti e gestiti interamente da studenti e studentesse dell'ateneo, senza alcuna affiliazione o riconoscimento formale da parte dell'amministrazione._
+> [!IMPORTANT]
+> Sapienza Students Network è un'organizzazione studentesca indipendente, le cui iniziative, progetti collaborativi e attività sono concepiti e gestiti interamente dagli studenti e dalle studentesse dell'ateneo; non esiste alcuna affiliazione o riconoscimento formale da parte dell'amministrazione.
 
 ## 💬 Forum Esercizi e Soluzioni (2024)
+
+> [!NOTE]
+> Chiunque desidera contribuire creando nuovi repository per altri canali o corsi oppure gestendo o aggiornando uno dei repository Forum Esercizi e Soluzioni parte di questa organizzazione GitHub, con o senza entrare a farne integralmente parte, può contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando il proprio username (o indirizzo e-mail) dell'account GitHub e (opzionalmente) il proprio username su Telegram
 
 ### 👨‍💻 Informatica (triennale) [29923]
 
@@ -56,6 +61,9 @@ Primo Anno
 
 ## ✨ Altri progetti interessanti
 
+> [!NOTE]
+> Chiunque abbia in mente un progetto, che possa essere d'interesse per gli studenti e le studentesse dell'ateneo, che vorrebbe avviare o con cui vorrebbe collaborare insieme alla comunità studentesca dell'ateneo in particolare, può contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando il proprio username (o indirizzo e-mail) dell'account GitHub e (opzionalmente) il proprio username su Telegram, per proporre la propria idea o il proprio progetto affinché venga eventualmente accolto all'interno di questa organizzazione GitHub, ed eventualmente offrirsi di esserne il curatore
+
 ### 👨‍💻 Informatica (triennale) [29923]
 
 #### 🌐 sapienzastudents.net/informatica
@@ -69,7 +77,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 ## 👷 Membri dell'organizzazione
 
 > [!NOTE]
-> Chiunque abbia a cuore gli ideali di condivisione e aiuto tra colleghi e voglia contribuire a farsi promotore di progetti collaborativi tra studenti e studentesse può considerarsi già parte di Sapienza Students Network, e contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o l'indirizzo e-mail dell'organizzazione per proporsi come membro dell'organizzazione GitHub e poter quindi eventualmente creare e gestire nuovi repository
+> Chiunque abbia a cuore gli ideali di condivisione e aiuto reciproco tra colleghi e/o voglia contribuire a farsi promotore di progetti collaborativi tra studenti e studentesse può considerarsi già parte di Sapienza Students Network, e contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando il proprio username (o indirizzo e-mail) dell'account GitHub e il proprio username su Telegram, per proporsi come membro dell'organizzazione GitHub, e poter quindi eventualmente creare e gestire nuovi repository d'interesse per la comunità studentesca
 
 - Matteo **Collica** ([@Matypist](https://github.com/Matypist)) [[Telegram](https://telegram.me/Matypist)]
   - Creatore e gestore dell'organizzazione GitHub ([@sapienzastudentsnetwork](https://github.com/sapienzastudentsnetwork))
@@ -131,7 +139,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 ## 🧑‍⚕️ Collaboratori esterni
 
 > [!NOTE]
-> Chiunque desidera contribuire a mantenere aggiornati e gestiti dei repository GitHub parte di questa organizzazione, con o senza farne integralmente parte, può contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o l'indirizzo e-mail dell'organizzazione per chiedere di essere aggiunto ai singoli repository come collaboratore esterno
+> Chiunque desidera contribuire a mantenere aggiornati e gestiti dei repository GitHub parte di questa organizzazione, con o senza farne integralmente parte, può contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando il proprio username (o indirizzo e-mail) dell'account GitHub e (opzionalmente) il proprio username su Telegram, per chiedere di essere aggiunto ai singoli repository come collaboratore esterno
 
 - ??? ([@Warcophyr](https://github.com/Warcophyr)) [[Telegram](https://telegram.me/Warcophyr)]
   - Collaboratore repository di Basi di Dati I A-L 23/24 ([bdi2324](https://github.com/sapienzastudentsnetwork/bdi2324))
