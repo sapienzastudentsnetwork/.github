@@ -17,7 +17,7 @@
 ## 💬 Forum Esercizi e Soluzioni (2024)
 
 > [!NOTE]
-> Se desideri contribuire creando nuovi repository per altri canali o corsi oppure gestendo o aggiornando uno dei repository Forum Esercizi e Soluzioni parte di questa organizzazione GitHub, con o senza entrare a farne integralmente parte, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram
+> Se desideri contribuire, creando nuovi repository per altri canali di insegnamento o corsi oppure gestendo o aggiornando uno dei repository Forum Esercizi e Soluzioni parte di questa organizzazione GitHub, con o senza entrare a farne integralmente parte, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram
 
 ### 👨‍💻 Informatica (triennale) [29923]
 
