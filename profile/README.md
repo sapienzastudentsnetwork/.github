@@ -74,7 +74,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 
 [TGroupsIndexerBot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot) is a Telegram bot in Python (via python-telegram-bot) for indexing groups part of telegram networks (codebase of [SapienzaStudentsBot](https://telegram.me/SapienzaStudentsBot))
 
-## 👷 Membri dell'organizzazione
+## 👷 Gestori repository dell'organizzazione
 
 > [!NOTE]
 > Chiunque abbia a cuore gli ideali di condivisione e aiuto reciproco tra colleghi e/o voglia contribuire a farsi promotore di progetti collaborativi tra studenti e studentesse può considerarsi già parte di Sapienza Students Network, e contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando il proprio username (o indirizzo e-mail) dell'account GitHub e il proprio username su Telegram, per proporsi come membro dell'organizzazione GitHub, e poter quindi eventualmente creare e gestire nuovi repository d'interesse per la comunità studentesca
