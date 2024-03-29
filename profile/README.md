@@ -1,4 +1,4 @@
-# Benvenuto/a nel profilo GitHub di Sapienza Students Network!
+# Benvenuto/a sul GitHub di Sapienza Students Network!
 
 🚀 Sapienza* Students Network è il progetto di un'organizzazione studentesca indipendente di iniziative collaborative e di comunità tra studenti e studentesse
 
@@ -6,7 +6,7 @@
 
 - Attualmente sono presenti repository di questo tipo principalmente per il corso di laurea triennale in [Informatica (29923)](https://github.com/sapienzastudentsnetwork/.github/edit/main/profile/README.md#-informatica-triennale-29923), ma non escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
 
-Curiamo qui, sempre qui su GitHub, e probabilmente ne seguiranno altre in futuro, anche [raccolte di esercizi](#-raccolte-di-esercizi) e [progetti di altro tipo](#-altri-progetti-interessanti), così come siamo aperti a qualsiasi proposta di progetto da parte tua (per la quale ti ringraziamo anticipatamente) 🙂
+✨ Curiamo qui, sempre qui su GitHub, e probabilmente ne seguiranno altre in futuro, anche [raccolte di esercizi](#-raccolte-di-esercizi) e [progetti di altro tipo](#-altri-progetti-interessanti), così come siamo aperti a qualsiasi proposta di progetto da parte tua (per la quale ti ringraziamo anticipatamente) 🙂
 
 📣 Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi gruppi Telegram disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili
 
@@ -16,7 +16,7 @@ Curiamo qui, sempre qui su GitHub, e probabilmente ne seguiranno altre in futuro
 
 ### 👨‍💻 Informatica (triennale) [29923]
 
-Primo Anno
+**Primo Anno**
 - Primo Semestre
 
   - Metodi Matematici [[A-L]](https://github.com/sapienzastudentsnetwork/mmi2122)
@@ -27,7 +27,7 @@ Primo Anno
   - Architettura degli Elaboratori [[2022-2023]](https://github.com/sapienzastudentsnetwork/archelab2223)
   - Metodologie di Programmazione [[Quattrociocchi]](https://github.com/sapienzastudentsnetwork/mdp2223)
 
-Secondo Anno
+**Secondo Anno**
 - Primo Semestre
 
   - Algebra [[A-L]](https://github.com/sapienzastudentsnetwork/algebra2324)
@@ -39,7 +39,7 @@ Secondo Anno
   - Basi di Dati II [[A-L e M-Z]](https://github.com/sapienzastudentsnetwork/bdii2223)
   - Progettazione di Algoritmi [[A-L]](https://github.com/sapienzastudentsnetwork/progalg2324)
 
-Terzo Anno
+**Terzo Anno**
 - Primo Semestre
 
   - Automi, Calcolabilità e Complessità [[Venturi]](https://github.com/sapienzastudentsnetwork/acc2324)
@@ -72,7 +72,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Creatore e gestore dell'organizzazione GitHub ([@sapienzastudentsnetwork](https://github.com/sapienzastudentsnetwork))
   - Creatore e gestore repository di TGroupsIndexerBot ([tgroupsindexerbot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot))
   - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
-  - Creatore repository di Automi, Calcolabilità e Complessità 23/24 (prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
+  - Creatore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
   - Creatore repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
   - Creatore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
   - Creatore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
@@ -88,32 +88,62 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Creatore repository di Basi di Dati I A-L 23/24 ([bdi2324](https://github.com/sapienzastudentsnetwork/bdi2324))
   - Creatore repository di Progettazione di Algoritmi A-L 23/24 ([progalg2324](https://github.com/sapienzastudentsnetwork/progalg2324))
 
+- Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
+  - Creatore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
+  - Creatore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
+
 - Giovanni **Cinieri** ([@Gio0203c](https://github.com/Gio0203c)) [[Telegram](https://telegram.me/Gio0203c)]
   - Creatore repository di Calcolo Integrale A-L 22/23 ([calcint2223](https://github.com/sapienzastudentsnetwork/calcint2223))
   - Creatore repository di Metodologie di Programmazione A-L 22/23 ([mdp2223](https://github.com/sapienzastudentsnetwork/mdp2223))
+
+- Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
+  - Creatore repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
+  - Collaboratore repository di Architettura degli Elaboratori A-L 22/23 ([archelab2223](https://github.com/sapienzastudentsnetwork/archelab2223))
 
 - Damiano **Gualandri** ([@dag7dev](https://github.com/dag7dev)) [[Telegram](https://telegram.me/DagSieben)]
   - Creatore repository di Distributed Systems 23/24 ([distributed-systems-2023-2024](https://github.com/sapienzastudentsnetwork/distributed-systems-2023-2024))
   - Collaboratore repository di TGroupsIndexerBot ([tgroupsindexerbot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot))
 
-- Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
-  - Creatore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
-  - Creatore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
-
-- Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
-  - Creatore repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
-
 - ??? ([@progettistamatto](https://github.com/progettistamatto))
   - Gestore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
 
 - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://telegram.me/Exyss)]
-  - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
+  - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
   - Collaboratore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
   - Collaboratore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
 
 - Radu Ionut **Barbalata** ([@i0nut02](https://github.com/i0nut02)) [[Telegram](https://telegram.me/Sono_Ionut)]
-  - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
+  - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
   - Collaboratore repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
 
 - Alessio **Bandiera** ([@aflaag](https://github.com/aflaag)) [[Telegram](https://telegram.me/aflaag)]
-  - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
+  - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
+
+-  Jude J. **Kallarakal** ([@Antaarees](https://github.com/Antaarees)) [[Telegram](https://telegram.me/Antaareess)]
+  - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
+
+## 🧑‍⚕️ Collaboratori esterni
+
+- ??? ([@Warcophyr](https://github.com/Warcophyr)) [[Telegram](https://telegram.me/Warcophyr)]
+  - Collaboratore repository di Basi di Dati I A-L 23/24 ([bdi2324](https://github.com/sapienzastudentsnetwork/bdi2324))
+
+- Federico **Fantozzi** ([@CiottoloMaggico](https://github.com/CiottoloMaggico)) [[Telegram](https://telegram.me/ciottolomaggico)]
+  - Collaboratore repository di Calcolo delle Probabilità 23/24 (Prof. Bertini, [calcprob2324](https://github.com/sapienzastudentsnetwork/calcprob2324))
+
+- Andrea **Lugini** ([@LuginiAndrea](https://github.com/LuginiAndrea)) [[Telegram](https://telegram.me/@abbbbellodecasettaa)]
+  - Collaboratore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
+
+- Matteo **Angeloro** ([@teoang](https://github.com/teoang)) [[Telegram](https://telegram.me/teoang)]
+  - Collaboratore repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
+
+- ??? (~[@ZuccheroSintattico](https://github.com/ZuccheroSintattico)~)
+  - Collaboratore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
+
+- Riccardo **Castelli** ([@Riccardus05](https://github.com/Riccardus05)) [[Telegram](https://telegram.me/Riccardus05)]
+  - Co-gestore repository di Calcolo Integrale A-L 22/23 ([calcint2223](https://github.com/sapienzastudentsnetwork/calcint2223))
+
+- Luca **Biazzetti** ([@TheNewHEROBRINEX](https://github.com/TheNewHEROBRINEX)) [[Telegram](https://telegram.me/TheNewHEROBRINEX)]
+  - Collaboratore repository di Calcolo Integrale A-L 22/23 ([calcint2223](https://github.com/sapienzastudentsnetwork/calcint2223))
+
+- Federico **Fiorelli** ([@ref1o](https://github.com/ref1o)) [[Telegram](https://telegram.me/federicofiorelli)]
+  - Collaboratore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
