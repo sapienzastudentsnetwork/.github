@@ -77,7 +77,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 ## 👷 Gestori repository dell'organizzazione
 
 > [!NOTE]
-> Se hai a cuore gli ideali di condivisione e aiuto reciproco tra colleghi, e/o vuoi contribuire facendoti promotore di progetti collaborativi tra studenti e studentesse, puoi considerarti già parte di Sapienza Students Network, e contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando l'username (o indirizzo e-mail) del tuo account GitHub e l'username del tuo account Telegram, per proporti come membro dell'organizzazione GitHub, e poter quindi eventualmente creare e gestire nuovi repository 🙂d'interesse per la comunità studentesca 🙂
+> Se hai a cuore gli ideali di condivisione e aiuto reciproco tra colleghi, e/o vuoi contribuire facendoti promotore di progetti collaborativi tra studenti e studentesse, puoi considerarti già parte di Sapienza Students Network, e contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando l'username (o indirizzo e-mail) del tuo account GitHub e l'username del tuo account Telegram, per proporti come membro dell'organizzazione GitHub, e poter quindi eventualmente creare e gestire nuovi repository d'interesse per la comunità studentesca 🙂
 
 - Matteo **Collica** ([@Matypist](https://github.com/Matypist)) [[Telegram](https://telegram.me/Matypist)]
   - Creatore e gestore dell'organizzazione GitHub ([@sapienzastudentsnetwork](https://github.com/sapienzastudentsnetwork))
