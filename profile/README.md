@@ -4,17 +4,17 @@
 
 💬 Il focus di questa organizzazione GitHub in particolare è la realizzazione, attraverso repository GitHub, di [forum](#-forum-esercizi-e-soluzioni-2024) (realizzati tramite un README.md guida e l'utilizzo degli "issues" o delle "discussions") per lo scambio e il confronto di soluzioni agli esercizi o vecchie tracce di esame di corsi universitari per cui non sono presenti pubblicamente delle soluzioni ufficiali
 
-- Attualmente sono presenti repository di questo tipo principalmente per il corso di laurea triennale in Informatica (29923), ma non escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
+- Attualmente sono presenti repository di questo tipo principalmente per il corso di laurea triennale in [Informatica (29923)](https://github.com/sapienzastudentsnetwork/.github/edit/main/profile/README.md#-informatica-triennale-29923), ma non escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
 
-Curiamo, e probabilmente ne seguiranno altri in futuro, anche [raccolte di esercizi](#-raccolte-di-esercizi) e [progetti di altro tipo](#-altri-progetti-interessanti), così come siamo aperti a qualsiasi proposta al riguardo da parte tua (per la quale ti ringraziamo anticipatamente) 🙂
+Curiamo qui, sempre qui su GitHub, e probabilmente ne seguiranno altre in futuro, anche [raccolte di esercizi](#-raccolte-di-esercizi) e [progetti di altro tipo](#-altri-progetti-interessanti), così come siamo aperti a qualsiasi proposta di progetto da parte tua (per la quale ti ringraziamo anticipatamente) 🙂
 
-🌐 Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi gruppi Telegram disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili
+📣 Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi gruppi Telegram disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili
 
 \* _**N.B.:** Sapienza Students Network è un'organizzazione studentesca indipendente, le cui iniziative, progetti collaborativi e attività sono concepiti e gestiti interamente da studenti e studentesse dell'ateneo, senza alcuna affiliazione o riconoscimento formale da parte dell'amministrazione._
 
 ## 💬 Forum Esercizi e Soluzioni (2024)
 
-### 👨‍💻 Informatica (triennale)
+### 👨‍💻 Informatica (triennale) [29923]
 
 Primo Anno
 - Primo Semestre
@@ -46,8 +46,20 @@ Terzo Anno
 
 ## 📚 Raccolte di esercizi
 
+### 👨‍💻 Informatica (triennale) [29923]
+
 Primo Anno
 - Primo Semestre
 
   - Calcolo Differenziale [[A-L e M-Z]](https://github.com/sapienzastudentsnetwork/calcdiff2324)
   - Calcolo Integrale [[2022-2023]](https://github.com/sapienzastudentsnetwork/calcint2223)
+
+## ✨ Altri progetti interessanti
+
+### sapienzastudents.net
+
+Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non ufficiale) degli studenti e le studentesse di Informatica a Sapienza. Vuoi contribuire al progetto? [Scopri come!](https://github.com/sapienzastudentsnetwork/informatica/blob/main/CONTRIBUTING.md)
+
+### TGroupsIndexerBot (SapienzaStudentsBot)
+
+[TGroupsIndexerBot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot) is a Telegram bot in Python (via python-telegram-bot) for indexing groups part of telegram networks (codebase of [SapienzaStudentsBot](https://telegram.me/SapienzaStudentsBot))
