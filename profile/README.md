@@ -1,6 +1,6 @@
 # Benvenuto/a nel profilo GitHub di Sapienza Students Network!
 
-🚀 Sapienza* Students Network è il progetto di un'organizzazione studentesca indipendente di iniziative collaborative e di comunità tra studenti e studentesse per vivere al meglio l'ateneo più grande d'Europa
+🚀 Sapienza* Students Network è il progetto di un'organizzazione studentesca indipendente di iniziative collaborative e di comunità tra studenti e studentesse
 
 💬 Il focus di questa organizzazione GitHub in particolare è la realizzazione, attraverso repository GitHub, di [forum](#-forum-esercizi-e-soluzioni-2024) (realizzati tramite un README.md guida e l'utilizzo degli "issues" o delle "discussions") per lo scambio e il confronto di soluzioni agli esercizi o vecchie tracce di esame di corsi universitari per cui non sono presenti pubblicamente delle soluzioni ufficiali
 
@@ -56,10 +56,61 @@ Primo Anno
 
 ## ✨ Altri progetti interessanti
 
-### sapienzastudents.net
+### 👨‍💻 Informatica (triennale) [29923]
+
+#### 🌐 sapienzastudents.net/informatica
 
 Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non ufficiale) degli studenti e le studentesse di Informatica a Sapienza. Vuoi contribuire al progetto? [Scopri come!](https://github.com/sapienzastudentsnetwork/informatica/blob/main/CONTRIBUTING.md)
 
-### TGroupsIndexerBot (SapienzaStudentsBot)
+### 🤖 TGroupsIndexerBot (SapienzaStudentsBot)
 
 [TGroupsIndexerBot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot) is a Telegram bot in Python (via python-telegram-bot) for indexing groups part of telegram networks (codebase of [SapienzaStudentsBot](https://telegram.me/SapienzaStudentsBot))
+
+## 👷 Membri dell'organizzazione
+
+- Matteo **Collica** ([@Matypist](https://github.com/Matypist)) [[Telegram](https://telegram.me/Matypist)]
+  - Creatore e gestore dell'organizzazione GitHub ([@sapienzastudentsnetwork](https://github.com/sapienzastudentsnetwork))
+  - Creatore e gestore repository di TGroupsIndexerBot ([tgroupsindexerbot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot))
+  - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
+  - Creatore repository di Automi, Calcolabilità e Complessità 23/24 (prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
+  - Creatore repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
+  - Creatore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
+  - Creatore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
+
+- Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli)) [[Telegram](https://telegram.me/ShingekiNoKen)]
+  - Creatore repository di Algebra A-L 23/24 ([algebra2324](https://github.com/sapienzastudentsnetwork/algebra2324))
+  - Creatore repository di Calcolo delle Probabilità A-L 23/24 ([calcprob2324](https://github.com/sapienzastudentsnetwork/calcprob2324))
+  - Creatore repository di Architettura degli Elaboratori A-L 22/23 ([archelab2223](https://github.com/sapienzastudentsnetwork/archelab2223))
+  - Collaboratore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
+
+- Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
+  - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
+  - Creatore repository di Basi di Dati I A-L 23/24 ([bdi2324](https://github.com/sapienzastudentsnetwork/bdi2324))
+  - Creatore repository di Progettazione di Algoritmi A-L 23/24 ([progalg2324](https://github.com/sapienzastudentsnetwork/progalg2324))
+
+- Giovanni **Cinieri** ([@Gio0203c](https://github.com/Gio0203c)) [[Telegram](https://telegram.me/Gio0203c)]
+  - Creatore repository di Calcolo Integrale A-L 22/23 ([calcint2223](https://github.com/sapienzastudentsnetwork/calcint2223))
+  - Creatore repository di Metodologie di Programmazione A-L 22/23 ([mdp2223](https://github.com/sapienzastudentsnetwork/mdp2223))
+
+- Damiano **Gualandri** ([@dag7dev](https://github.com/dag7dev)) [[Telegram](https://telegram.me/DagSieben)]
+  - Creatore repository di Distributed Systems 23/24 ([distributed-systems-2023-2024](https://github.com/sapienzastudentsnetwork/distributed-systems-2023-2024))
+  - Collaboratore repository di TGroupsIndexerBot ([tgroupsindexerbot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot))
+
+- Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
+  - Creatore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
+  - Creatore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
+
+- ??? ([@progettistamatto](https://github.com/progettistamatto))
+  - Gestore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
+
+- Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://telegram.me/Exyss)]
+  - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
+  - Collaboratore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
+  - Collaboratore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
+
+- Radu Ionut **Barbalata** ([@i0nut02](https://github.com/i0nut02)) [[Telegram](https://telegram.me/Sono_Ionut)]
+  - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
+  - Collaboratore repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
+
+- Alessio **Bandiera** ([@aflaag](https://github.com/aflaag)) [[Telegram](https://telegram.me/aflaag)]
+  - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
