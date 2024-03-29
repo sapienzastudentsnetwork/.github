@@ -62,7 +62,7 @@ Primo Anno
 ## ✨ Altri progetti interessanti
 
 > [!NOTE]
-> Chiunque abbia in mente un progetto, che possa essere d'interesse per gli studenti e le studentesse dell'ateneo, che vorrebbe avviare o con cui vorrebbe collaborare insieme alla comunità studentesca dell'ateneo in particolare, può contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando il proprio username (o indirizzo e-mail) dell'account GitHub e (opzionalmente) il proprio username su Telegram, per proporre la propria idea o il proprio progetto affinché venga eventualmente accolto all'interno di questa organizzazione GitHub, ed eventualmente offrirsi di esserne il curatore
+> Chiunque abbia in mente un progetto, che possa essere d'interesse per gli studenti e le studentesse dell'ateneo, che vorrebbe avviare o per cui vorrebbe collaborare insieme alla comunità studentesca dell'ateneo in particolare, può contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando il proprio username (o indirizzo e-mail) dell'account GitHub e (opzionalmente) il proprio username su Telegram, per proporre la propria idea o il proprio progetto affinché venga eventualmente accolto all'interno di questa organizzazione GitHub, ed eventualmente offrirsi di esserne il curatore
 
 ### 👨‍💻 Informatica (triennale) [29923]
 
