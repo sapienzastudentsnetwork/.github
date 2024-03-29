@@ -100,6 +100,9 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Creatore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
   - Creatore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
 
+- Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
+  - Creatore repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
+
 - ??? ([@progettistamatto](https://github.com/progettistamatto))
   - Gestore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
 
