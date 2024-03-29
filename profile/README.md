@@ -1,12 +1,12 @@
 # Benvenuto/a sul GitHub di Sapienza Students Network!
 
-🚀 Sapienza* Students Network è il progetto di un'organizzazione studentesca indipendente di iniziative collaborative e di comunità tra studenti e studentesse
+🚀 Sapienza* Students Network è il progetto di un'organizzazione studentesca indipendente di iniziative collaborative e di comunità tra studenti e studentesse dell'Ateneo più grande d'Europa
 
 💬 Il focus di questa organizzazione GitHub in particolare è la realizzazione, attraverso repository GitHub, di [forum](#-forum-esercizi-e-soluzioni-2024) (realizzati tramite un README.md guida e l'utilizzo degli "issues" o delle "discussions") per lo scambio e il confronto di soluzioni agli esercizi o vecchie tracce di esame di corsi universitari per cui non sono presenti pubblicamente delle soluzioni ufficiali
 
 - Attualmente sono presenti repository di questo tipo principalmente per il corso di laurea triennale in [Informatica (29923)](https://github.com/sapienzastudentsnetwork/.github/edit/main/profile/README.md#-informatica-triennale-29923), ma non escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
 
-✨ Curiamo qui, sempre qui su GitHub, e probabilmente ne seguiranno altre in futuro, anche [raccolte di esercizi](#-raccolte-di-esercizi) e [progetti di altro tipo](#-altri-progetti-interessanti), così come siamo aperti a qualsiasi proposta di progetto da parte tua (per la quale ti ringraziamo anticipatamente) 🙂
+✨ Questa oragnizzazione comprende anche, e probabilmente ne seguiranno altre in futuro, [raccolte di esercizi](#-raccolte-di-esercizi) e [progetti di altro tipo](#-altri-progetti-interessanti), così come siamo aperti a qualsiasi proposta di nuovi repository e progetti da parte tua (per le quali ti ringraziamo anticipatamente) 🙂
 
 📣 Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi gruppi Telegram disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili
 
@@ -68,6 +68,9 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 
 ## 👷 Membri dell'organizzazione
 
+> [!NOTE]
+> Chiunque abbia a cuore gli ideali di condivisione e aiuto tra colleghi e voglia contribuire a farsi promotore di progetti collaborativi tra studenti e studentesse può considerarsi già parte di Sapienza Students Network, e contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o l'indirizzo e-mail dell'organizzazione per proporsi come membro dell'organizzazione GitHub e poter quindi eventualmente creare e gestire nuovi repository
+
 - Matteo **Collica** ([@Matypist](https://github.com/Matypist)) [[Telegram](https://telegram.me/Matypist)]
   - Creatore e gestore dell'organizzazione GitHub ([@sapienzastudentsnetwork](https://github.com/sapienzastudentsnetwork))
   - Creatore e gestore repository di TGroupsIndexerBot ([tgroupsindexerbot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot))
@@ -122,7 +125,13 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 -  Jude J. **Kallarakal** ([@Antaarees](https://github.com/Antaarees)) [[Telegram](https://telegram.me/Antaareess)]
   - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
 
+- Federico **Fiorelli** ([@ref1o](https://github.com/ref1o)) [[Telegram](https://telegram.me/federicofiorelli)]
+  - Collaboratore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
+
 ## 🧑‍⚕️ Collaboratori esterni
+
+> [!NOTE]
+> Chiunque desidera contribuire a mantenere aggiornati e gestiti dei repository GitHub parte di questa organizzazione, con o senza farne integralmente parte, può contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o l'indirizzo e-mail dell'organizzazione per chiedere di essere aggiunto ai singoli repository come collaboratore esterno
 
 - ??? ([@Warcophyr](https://github.com/Warcophyr)) [[Telegram](https://telegram.me/Warcophyr)]
   - Collaboratore repository di Basi di Dati I A-L 23/24 ([bdi2324](https://github.com/sapienzastudentsnetwork/bdi2324))
@@ -144,6 +153,3 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 
 - Luca **Biazzetti** ([@TheNewHEROBRINEX](https://github.com/TheNewHEROBRINEX)) [[Telegram](https://telegram.me/TheNewHEROBRINEX)]
   - Collaboratore repository di Calcolo Integrale A-L 22/23 ([calcint2223](https://github.com/sapienzastudentsnetwork/calcint2223))
-
-- Federico **Fiorelli** ([@ref1o](https://github.com/ref1o)) [[Telegram](https://telegram.me/federicofiorelli)]
-  - Collaboratore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
