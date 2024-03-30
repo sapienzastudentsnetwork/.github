@@ -88,17 +88,17 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Creatore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
   - Creatore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
 
+- Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
+  - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
+  - Creatore e co-gestore repository di Reti di Elaboratori A-L 23/24 ([reti2324](https://github.com/sapienzastudentsnetwork/reti2324))
+  - Creatore repository di Progettazione di Algoritmi A-L 23/24 ([progalg2324](https://github.com/sapienzastudentsnetwork/progalg2324))
+  - Creatore repository di Basi di Dati I A-L 23/24 ([bdi2324](https://github.com/sapienzastudentsnetwork/bdi2324))
+
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli)) [[Telegram](https://telegram.me/ShingekiNoKen)]
   - Creatore repository di Algebra A-L 23/24 ([algebra2324](https://github.com/sapienzastudentsnetwork/algebra2324))
   - Creatore repository di Calcolo delle Probabilità A-L 23/24 ([calcprob2324](https://github.com/sapienzastudentsnetwork/calcprob2324))
   - Creatore repository di Architettura degli Elaboratori A-L 22/23 ([archelab2223](https://github.com/sapienzastudentsnetwork/archelab2223))
   - Collaboratore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
-
-- Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
-  - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
-  - Creatore e co-gestore repository di Reti di Elaboratori A-L 23/24 ([reti2324](https://github.com/sapienzastudentsnetwork/reti2324))
-  - Creatore repository di Basi di Dati I A-L 23/24 ([bdi2324](https://github.com/sapienzastudentsnetwork/bdi2324))
-  - Creatore repository di Progettazione di Algoritmi A-L 23/24 ([progalg2324](https://github.com/sapienzastudentsnetwork/progalg2324))
 
 - Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
   - Creatore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
