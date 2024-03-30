@@ -6,7 +6,7 @@
 
 - Attualmente sono presenti repository di questo tipo principalmente per il corso di laurea triennale in [Informatica (29923)](https://github.com/sapienzastudentsnetwork/.github/edit/main/profile/README.md#-informatica-triennale-29923), ma non escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
 
-✨ Questa organizzazione comprende anche, e probabilmente ne seguiranno altri in futuro, [raccolte di schede di esercizi](#-schede-di-esercizi) e [progetti di altro tipo](#-altri-progetti-interessanti), così come siamo aperti in qualsiasi moemnto a qualsiasi proposta di nuovi repository e progetti da parte tua 🙂
+✨ Questa organizzazione comprende anche, e probabilmente ne seguiranno altri in futuro, [progetti di altro tipo](#-altri-progetti-interessanti) e [raccolte di schede di esercizi](#-schede-di-esercizi), così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repository e progetti da parte tua 🙂
 
 > [!TIP]
 > Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi [gruppi Telegram](https://t.me/SapienzaStudentsNetwork/7) disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili!
