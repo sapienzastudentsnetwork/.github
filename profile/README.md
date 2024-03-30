@@ -36,12 +36,12 @@
 - Primo Semestre
 
   - Algebra [[A-L]](https://github.com/sapienzastudentsnetwork/algebra2324)
-  - Basi di Dati I [[A-L e M-Z]](https://github.com/sapienzastudentsnetwork/bdi2324)
+  - Basi di Dati I [[Perelli]](https://github.com/sapienzastudentsnetwork/bdi2324)
   - Calcolo delle Probabilità [[Bertini]](https://github.com/sapienzastudentsnetwork/calcprob2324) [[Isopi, 2022-2023]](https://github.com/sapienzastudentsnetwork/calcprob2223)
 
 - Secondo Semestre
 
-  - Basi di Dati II [[A-L e M-Z]](https://github.com/sapienzastudentsnetwork/bdii2223)
+  - Basi di Dati II [[Mancini]](https://github.com/sapienzastudentsnetwork/bdii2223)
   - Progettazione di Algoritmi [[A-L]](https://github.com/sapienzastudentsnetwork/progalg2324)
 
 **Terzo Anno**
@@ -96,6 +96,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 
 - Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
   - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
+  - Creatore e co-gestore repository di Reti di Elaboratori A-L 23/24 ([reti2324](https://github.com/sapienzastudentsnetwork/reti2324))
   - Creatore repository di Basi di Dati I A-L 23/24 ([bdi2324](https://github.com/sapienzastudentsnetwork/bdi2324))
   - Creatore repository di Progettazione di Algoritmi A-L 23/24 ([progalg2324](https://github.com/sapienzastudentsnetwork/progalg2324))
 
@@ -108,6 +109,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Creatore repository di Metodologie di Programmazione A-L 22/23 ([mdp2223](https://github.com/sapienzastudentsnetwork/mdp2223))
 
 - Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
+  - Co-gestore repository di Reti di Elaboratori A-L 23/24 ([reti2324](https://github.com/sapienzastudentsnetwork/reti2324))
   - Creatore repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
   - Collaboratore repository di Architettura degli Elaboratori A-L 22/23 ([archelab2223](https://github.com/sapienzastudentsnetwork/archelab2223))
 
