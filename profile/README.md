@@ -43,6 +43,7 @@
 
   - Basi di Dati II [[Mancini]](https://github.com/sapienzastudentsnetwork/bdii2223)
   - Progettazione di Algoritmi [[A-L]](https://github.com/sapienzastudentsnetwork/progalg2324)
+  - Reti di Elaboratori [[A-L]](https://github.com/sapienzastudentsnetwork/reti2324)
 
 **Terzo Anno**
 - Primo Semestre
