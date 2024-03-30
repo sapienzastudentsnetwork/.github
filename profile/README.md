@@ -91,7 +91,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 - Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
   - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
   - Creatore e co-gestore repository di Reti di Elaboratori A-L 23/24 ([reti2324](https://github.com/sapienzastudentsnetwork/reti2324))
-  - Creatore repository di Progettazione di Algoritmi A-L 23/24 ([progalg2324](https://github.com/sapienzastudentsnetwork/progalg2324))
+  - Creatore e gestore repository di Progettazione di Algoritmi A-L 23/24 ([progalg2324](https://github.com/sapienzastudentsnetwork/progalg2324))
   - Creatore repository di Basi di Dati I A-L 23/24 ([bdi2324](https://github.com/sapienzastudentsnetwork/bdi2324))
 
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli)) [[Telegram](https://telegram.me/ShingekiNoKen)]
@@ -100,6 +100,11 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Creatore repository di Architettura degli Elaboratori A-L 22/23 ([archelab2223](https://github.com/sapienzastudentsnetwork/archelab2223))
   - Collaboratore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
 
+- Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
+  - Co-gestore repository di Reti di Elaboratori A-L 23/24 ([reti2324](https://github.com/sapienzastudentsnetwork/reti2324))
+  - Creatore repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
+  - Collaboratore repository di Architettura degli Elaboratori A-L 22/23 ([archelab2223](https://github.com/sapienzastudentsnetwork/archelab2223))
+
 - Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
   - Creatore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
   - Creatore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
@@ -107,11 +112,6 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 - Giovanni **Cinieri** ([@Gio0203c](https://github.com/Gio0203c)) [[Telegram](https://telegram.me/Gio0203c)]
   - Creatore repository di Calcolo Integrale A-L 22/23 ([calcint2223](https://github.com/sapienzastudentsnetwork/calcint2223))
   - Creatore repository di Metodologie di Programmazione A-L 22/23 ([mdp2223](https://github.com/sapienzastudentsnetwork/mdp2223))
-
-- Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
-  - Co-gestore repository di Reti di Elaboratori A-L 23/24 ([reti2324](https://github.com/sapienzastudentsnetwork/reti2324))
-  - Creatore repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
-  - Collaboratore repository di Architettura degli Elaboratori A-L 22/23 ([archelab2223](https://github.com/sapienzastudentsnetwork/archelab2223))
 
 - Damiano **Gualandri** ([@dag7dev](https://github.com/dag7dev)) [[Telegram](https://telegram.me/DagSieben)]
   - Creatore repository di Distributed Systems 23/24 ([distributed-systems-2023-2024](https://github.com/sapienzastudentsnetwork/distributed-systems-2023-2024))
