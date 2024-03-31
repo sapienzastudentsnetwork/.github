@@ -36,12 +36,12 @@
 - Primo Semestre
 
   - Algebra [[A-L]](https://github.com/sapienzastudentsnetwork/algebra2324)
-  - Basi di Dati I [[Perelli]](https://github.com/sapienzastudentsnetwork/bdi2324)
+  - [Basi di Dati I](https://github.com/sapienzastudentsnetwork/basi-di-dati-1)
   - Calcolo delle Probabilità [[Bertini]](https://github.com/sapienzastudentsnetwork/calcprob2324) [[Isopi, 2022-2023]](https://github.com/sapienzastudentsnetwork/calcprob2223)
 
 - Secondo Semestre
 
-  - Basi di Dati II [[Mancini]](https://github.com/sapienzastudentsnetwork/bdii2223)
+  - [Basi di Dati II](https://github.com/sapienzastudentsnetwork/basi-di-dati-2)
   - Progettazione di Algoritmi [[A-L]](https://github.com/sapienzastudentsnetwork/progalg2324)
   - Reti di Elaboratori [[A-L]](https://github.com/sapienzastudentsnetwork/reti2324)
 
@@ -93,7 +93,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
   - Creatore e co-gestore repository di Reti di Elaboratori A-L 23/24 ([reti2324](https://github.com/sapienzastudentsnetwork/reti2324))
   - Creatore e gestore repository di Progettazione di Algoritmi A-L 23/24 ([progalg2324](https://github.com/sapienzastudentsnetwork/progalg2324))
-  - Creatore repository di Basi di Dati I A-L 23/24 ([bdi2324](https://github.com/sapienzastudentsnetwork/bdi2324))
+  - Creatore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
 
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli)) [[Telegram](https://telegram.me/ShingekiNoKen)]
   - Creatore repository di Algebra A-L 23/24 ([algebra2324](https://github.com/sapienzastudentsnetwork/algebra2324))
@@ -107,7 +107,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Collaboratore repository di Architettura degli Elaboratori A-L 22/23 ([archelab2223](https://github.com/sapienzastudentsnetwork/archelab2223))
 
 - Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
-  - Creatore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
+  - Creatore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
   - Creatore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
 
 - Giovanni **Cinieri** ([@Gio0203c](https://github.com/Gio0203c)) [[Telegram](https://telegram.me/Gio0203c)]
@@ -119,11 +119,11 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Collaboratore repository di TGroupsIndexerBot ([tgroupsindexerbot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot))
 
 - ??? ([@progettistamatto](https://github.com/progettistamatto))
-  - Gestore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
+  - Gestore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
 
 - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://telegram.me/Exyss)]
   - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
-  - Collaboratore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
+  - Collaboratore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
   - Co-gestore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
 
 - Radu Ionut **Barbalata** ([@i0nut02](https://github.com/i0nut02)) [[Telegram](https://telegram.me/Sono_Ionut)]
@@ -145,7 +145,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 > Se desideri contribuire a mantenere aggiornati e gestiti dei repository GitHub parte di questa organizzazione, con o senza farne integralmente parte, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram, per chiedere di essere aggiunto ai singoli repository come collaboratore esterno 🙂
 
 - ??? ([@Warcophyr](https://github.com/Warcophyr)) [[Telegram](https://telegram.me/Warcophyr)]
-  - Collaboratore repository di Basi di Dati I A-L 23/24 ([bdi2324](https://github.com/sapienzastudentsnetwork/bdi2324))
+  - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
 
 - Federico **Fantozzi** ([@CiottoloMaggico](https://github.com/CiottoloMaggico)) [[Telegram](https://telegram.me/ciottolomaggico)]
   - Collaboratore repository di Calcolo delle Probabilità 23/24 (Prof. Bertini, [calcprob2324](https://github.com/sapienzastudentsnetwork/calcprob2324))
@@ -157,7 +157,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Collaboratore repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
 
 - ??? (~[@ZuccheroSintattico](https://github.com/ZuccheroSintattico)~)
-  - Collaboratore repository di Basi di Dati II 22/23 ([bdii2223](https://github.com/sapienzastudentsnetwork/bdii2223))
+  - Collaboratore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
 
 - Riccardo **Castelli** ([@Riccardus05](https://github.com/Riccardus05)) [[Telegram](https://telegram.me/Riccardus05)]
   - Co-gestore repository di Calcolo Integrale A-L 22/23 ([calcint2223](https://github.com/sapienzastudentsnetwork/calcint2223))
