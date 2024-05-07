@@ -94,7 +94,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Creatore repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
   - Creatore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
   - Creatore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
-  - Collaboratore repository di Architattura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
+  - Collaboratore repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
   - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
