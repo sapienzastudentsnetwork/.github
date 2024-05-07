@@ -29,7 +29,7 @@
 
 - Secondo Semestre
   
-  - Architettura degli Elaboratori [[2022-2023]](https://github.com/sapienzastudentsnetwork/archelab2223)
+  - [Architettura degli Elaboratori](https://github.com/sapienzastudentsnetwork/archelab2223)
   - Metodologie di Programmazione [[Quattrociocchi]](https://github.com/sapienzastudentsnetwork/mdp2223)
 
 **Secondo Anno**
