@@ -69,7 +69,7 @@
 ## ✨ Altri progetti interessanti
 
 > [!NOTE]
-> Se hai in mente un progetto, che possa essere d'interesse per gli studenti e le studentesse dell'ateneo, che vorresti avviare o per cui vorresti collaborare insieme alla comunità studentesca dell'ateneo in particolare, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram, per proporre la tua idea o il tuo progetto affinché venga eventualmente accolto all'interno di questa organizzazione GitHub, ed eventualmente offrirti di esserne il curatore 🙂
+> Se hai in mente un progetto, che possa essere d'interesse per gli studenti e le studentesse dell'ateneo, che vorresti avviare o per cui vorresti collaborare insieme alla comunità studentesca dell'ateneo in particolare, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione - indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram - per proporre la tua idea o il tuo progetto affinché venga eventualmente accolto all'interno di questa organizzazione GitHub, ed eventualmente offrirti di esserne il curatore 🙂
 
 ### 👨‍💻 Informatica (triennale) [29923]
 
@@ -84,7 +84,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 ## 👷 Gestori repository dell'organizzazione
 
 > [!NOTE]
-> Se hai a cuore gli ideali di condivisione e aiuto reciproco tra colleghi, e/o vuoi contribuire facendoti promotore di progetti collaborativi tra studenti e studentesse, puoi considerarti già parte di Sapienza Students Network, e contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando l'username (o indirizzo e-mail) del tuo account GitHub e l'username del tuo account Telegram, per proporti come membro dell'organizzazione GitHub, e poter quindi eventualmente creare e gestire nuovi repository d'interesse per la comunità studentesca 🙂
+> Se hai a cuore gli ideali di condivisione e aiuto reciproco tra colleghi, e/o vuoi contribuire facendoti promotore di progetti collaborativi tra studenti e studentesse, puoi considerarti già parte di Sapienza Students Network, e contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione - indicando l'username (o indirizzo e-mail) del tuo account GitHub e l'username del tuo account Telegram, per proporti come membro dell'organizzazione GitHub - e poter quindi eventualmente creare e gestire nuovi repository d'interesse per la comunità studentesca 🙂
 
 - Matteo **Collica** ([@Matypist](https://github.com/Matypist)) [[Telegram](https://telegram.me/Matypist)]
   - Creatore e gestore dell'organizzazione GitHub ([@sapienzastudentsnetwork](../../../..))
@@ -148,7 +148,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 ## 🧑‍⚕️ Collaboratori esterni
 
 > [!NOTE]
-> Se desideri contribuire a mantenere aggiornati e gestiti dei repository GitHub parte di questa organizzazione, con o senza farne integralmente parte, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram, per chiedere di essere aggiunto ai singoli repository come collaboratore esterno 🙂
+> Se desideri contribuire a mantenere aggiornati e gestiti dei repository GitHub parte di questa organizzazione, con o senza farne integralmente parte, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione - indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram - per chiedere di essere aggiunto ai singoli repository come collaboratore esterno 🙂
 
 - ??? ([@Warcophyr](https://github.com/Warcophyr)) [[Telegram](https://telegram.me/Warcophyr)]
   - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
