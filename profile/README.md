@@ -94,6 +94,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
   - Creatore repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
   - Creatore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
   - Creatore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
+  - Collaboratore repository di Architattura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
   - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
@@ -104,13 +105,13 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non uffic
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli)) [[Telegram](https://telegram.me/ShingekiNoKen)]
   - Creatore repository di Algebra A-L 23/24 ([algebra2324](https://github.com/sapienzastudentsnetwork/algebra2324))
   - Creatore repository di Calcolo delle Probabilità A-L 23/24 ([calcprob2324](https://github.com/sapienzastudentsnetwork/calcprob2324))
-  - Creatore repository di Architettura degli Elaboratori A-L 22/23 ([archelab2223](https://github.com/sapienzastudentsnetwork/archelab2223))
+  - Creatore repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
   - Collaboratore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
 
 - Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
   - Co-gestore repository di Reti di Elaboratori A-L 23/24 ([reti2324](https://github.com/sapienzastudentsnetwork/reti2324))
   - Creatore repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
-  - Collaboratore repository di Architettura degli Elaboratori A-L 22/23 ([archelab2223](https://github.com/sapienzastudentsnetwork/archelab2223))
+  - Collaboratore repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
   - Creatore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
