@@ -75,7 +75,7 @@
 
 #### 🌐 sapienzastudents.net/informatica
 
-Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) (non ufficiale) degli studenti e le studentesse di Informatica a Sapienza. Vuoi contribuire al progetto? [Scopri come!](https://github.com/sapienzastudentsnetwork/informatica/blob/main/CONTRIBUTING.md)
+Progetto collaborativo di un [Sito Web](https://sapienzastudents.net/informatica) (non ufficiale) degli studenti e le studentesse di Informatica a Sapienza. Vuoi contribuire al progetto? [Scopri come!](https://github.com/sapienzastudentsnetwork/informatica/blob/main/CONTRIBUTING.md)
 
 ### 🤖 TGroupsIndexerBot (SapienzaStudentsBot)
 
