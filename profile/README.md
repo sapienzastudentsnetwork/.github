@@ -43,7 +43,7 @@
 
   - [Basi di Dati II](https://github.com/sapienzastudentsnetwork/basi-di-dati-2)
   - Progettazione di Algoritmi [[A-L]](https://github.com/sapienzastudentsnetwork/progalg2324)
-  - Reti di Elaboratori [[A-L]](https://github.com/sapienzastudentsnetwork/reti2324)
+  - [Reti di Elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori)
 
 **Terzo Anno**
 - Primo Semestre
@@ -98,7 +98,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net/informatica
 
 - Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
   - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
-  - Creatore e co-gestore repository di Reti di Elaboratori A-L 23/24 ([reti2324](https://github.com/sapienzastudentsnetwork/reti2324))
+  - Creatore e co-gestore repository di Reti di Elaboratori 23/24 ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
   - Creatore e gestore repository di Progettazione di Algoritmi A-L 23/24 ([progalg2324](https://github.com/sapienzastudentsnetwork/progalg2324))
   - Creatore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
 
@@ -109,7 +109,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net/informatica
   - Collaboratore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
 
 - Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
-  - Co-gestore repository di Reti di Elaboratori A-L 23/24 ([reti2324](https://github.com/sapienzastudentsnetwork/reti2324))
+  - Co-gestore repository di Reti di Elaboratori 23/24 ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
   - Creatore repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
   - Collaboratore repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
