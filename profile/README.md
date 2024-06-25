@@ -11,9 +11,6 @@
 > [!TIP]
 > Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi [gruppi Telegram](https://t.me/SapienzaStudentsNetwork/7) disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili!
 
-> [!IMPORTANT]
-> Sapienza Students Network è un'organizzazione studentesca indipendente, le cui iniziative, progetti collaborativi e attività sono concepiti e gestiti interamente dagli studenti e dalle studentesse dell'ateneo; non esiste alcuna affiliazione o riconoscimento formale da parte dell'amministrazione.
-
 ## 💬 Forum Esercizi e Soluzioni (2024)
 
 > [!NOTE]
@@ -73,9 +70,9 @@
 
 ### 👨‍💻 Informatica (triennale) [29923]
 
-#### 🌐 sapienzastudents.net/informatica
+#### 🌐 sapienzastudents.net
 
-Progetto collaborativo di un [Sito Web](https://sapienzastudents.net/informatica) (non ufficiale) degli studenti e le studentesse di Informatica a Sapienza. Vuoi contribuire al progetto? [Scopri come!](https://github.com/sapienzastudentsnetwork/informatica/blob/main/CONTRIBUTING.md)
+Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli studenti e le studentesse dei Corsi di Laurea in Infomratica a Sapienza. Vuoi contribuire al progetto? [Scopri come!](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io/blob/main/CONTRIBUTING.md)
 
 ### 🤖 TGroupsIndexerBot (SapienzaStudentsBot)
 
@@ -89,7 +86,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net/informatica
 - Matteo **Collica** ([@Matypist](https://github.com/Matypist)) [[Telegram](https://telegram.me/Matypist)]
   - Creatore e gestore dell'organizzazione GitHub ([@sapienzastudentsnetwork](../../../..))
   - Creatore e gestore repository di TGroupsIndexerBot ([tgroupsindexerbot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot))
-  - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
+  - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
   - Creatore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
   - Creatore repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
   - Creatore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
@@ -97,7 +94,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net/informatica
   - Collaboratore repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
-  - Co-gestore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
+  - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
   - Creatore e co-gestore repository di Reti di Elaboratori 23/24 ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
   - Creatore e gestore repository di Progettazione di Algoritmi A-L 23/24 ([progalg2324](https://github.com/sapienzastudentsnetwork/progalg2324))
   - Creatore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
@@ -113,10 +110,6 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net/informatica
   - Creatore repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
   - Collaboratore repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
-- Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
-  - Creatore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
-  - Creatore repository di sapienzastudents.net/informatica ([informatica](https://github.com/sapienzastudentsnetwork/informatica))
-
 - Giovanni **Cinieri** ([@Gio0203c](https://github.com/Gio0203c)) [[Telegram](https://telegram.me/Gio0203c)]
   - Creatore repository di Calcolo Integrale A-L 22/23 ([calcint2223](https://github.com/sapienzastudentsnetwork/calcint2223))
   - Creatore repository di Metodologie di Programmazione A-L 22/23 ([mdp2223](https://github.com/sapienzastudentsnetwork/mdp2223))
@@ -127,6 +120,9 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net/informatica
 
 - ??? ([@progettistamatto](https://github.com/progettistamatto))
   - Gestore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
+
+- Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
+  - Creatore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
 
 - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://telegram.me/Exyss)]
   - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
