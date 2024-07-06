@@ -32,7 +32,7 @@
 **Secondo Anno**
 - Primo Semestre
 
-  - Algebra [[A-L]](https://github.com/sapienzastudentsnetwork/algebra2324)
+  - [Algebra](https://github.com/sapienzastudentsnetwork/algebra)
   - [Basi di Dati I](https://github.com/sapienzastudentsnetwork/basi-di-dati-1)
   - Calcolo delle Probabilità [[Bertini]](https://github.com/sapienzastudentsnetwork/calcprob2324) [[Isopi, 2022-2023]](https://github.com/sapienzastudentsnetwork/calcprob2223)
 
@@ -100,7 +100,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Creatore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
 
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli)) [[Telegram](https://telegram.me/ShingekiNoKen)]
-  - Creatore repository di Algebra A-L 23/24 ([algebra2324](https://github.com/sapienzastudentsnetwork/algebra2324))
+  - Creatore repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
   - Creatore repository di Calcolo delle Probabilità A-L 23/24 ([calcprob2324](https://github.com/sapienzastudentsnetwork/calcprob2324))
   - Creatore repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
   - Collaboratore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
