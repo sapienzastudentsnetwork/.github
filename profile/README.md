@@ -39,7 +39,7 @@
 - Secondo Semestre
 
   - [Basi di Dati II](https://github.com/sapienzastudentsnetwork/basi-di-dati-2)
-  - Progettazione di Algoritmi [[A-L]](https://github.com/sapienzastudentsnetwork/progalg2324)
+  - [Progettazione di Algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi)
   - [Reti di Elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori)
 
 **Terzo Anno**
@@ -96,7 +96,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 - Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
   - Creatore e co-gestore repository di Reti di Elaboratori 23/24 ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
-  - Creatore e gestore repository di Progettazione di Algoritmi A-L 23/24 ([progalg2324](https://github.com/sapienzastudentsnetwork/progalg2324))
+  - Creatore e gestore repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Creatore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
 
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli)) [[Telegram](https://telegram.me/ShingekiNoKen)]
