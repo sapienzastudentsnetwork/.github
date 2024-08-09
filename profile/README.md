@@ -154,10 +154,10 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 > [!NOTE]
 > Se desideri contribuire a mantenere aggiornati e gestiti dei repository GitHub parte di questa organizzazione, con o senza farne integralmente parte, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione - indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram - per chiedere di essere aggiunto ai singoli repository come collaboratore esterno 🙂
 
-- Marcello **Galisai** ([GitHub](https://github.com/marcellogalisai)) [[Telegram](https://telegram.me/marcellogalisai)]
+- Marcello **Galisai** ([@marcellogalisai](https://github.com/marcellogalisai)) [[Telegram](https://telegram.me/marcellogalisai)]
   - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
  
-- Michele **Palma** ([GitHub](https://github.com/palmaaaa)) [[Telegram](https://telegram.me/flyingmp)]
+- Michele **Palma** ([@palmaaaa](https://github.com/palmaaaa)) [[Telegram](https://telegram.me/flyingmp)]
   - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
 
 - ??? ([@Warcophyr](https://github.com/Warcophyr)) [[Telegram](https://telegram.me/Warcophyr)]
