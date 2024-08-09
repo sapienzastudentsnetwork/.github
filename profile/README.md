@@ -21,7 +21,7 @@
 **Primo Anno**
 - Primo Semestre
 
-  - [Metodi Matematici](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica)
+  - [Metodi Matematici per l'Informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica)
   - Progettazione di Sistemi Digitali [[A-L, Pontarelli]](https://github.com/sapienzastudentsnetwork/psd2223)
 
 - Secondo Semestre
