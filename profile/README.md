@@ -21,12 +21,12 @@
 **Primo Anno**
 - Primo Semestre
 
-  - Metodi Matematici [[A-L]](https://github.com/sapienzastudentsnetwork/mmi2122)
+  - [Metodi Matematici](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica)
   - Progettazione di Sistemi Digitali [[A-L, Pontarelli]](https://github.com/sapienzastudentsnetwork/psd2223)
 
 - Secondo Semestre
   
-  - [Architettura degli Elaboratori](https://github.com/sapienzastudentsnetwork/archelab2223)
+  - [Architettura degli Elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori)
   - Metodologie di Programmazione [[Quattrociocchi]](https://github.com/sapienzastudentsnetwork/mdp2223)
 
 **Secondo Anno**
@@ -90,7 +90,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Creatore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
   - Creatore repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
   - Creatore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
-  - Creatore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
+  - Creatore repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
   - Collaboratore repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
@@ -108,6 +108,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 - Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
   - Co-gestore repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
   - Creatore repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
+  - Collaboratore repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
   - Collaboratore repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Lorenzo **Antonelli** ([@Lorenzoantonelli](https://github.com/Lorenzoantonelli/)) [[Telegram](https://telegram.me/lorenzosphotos)]
@@ -130,7 +131,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://telegram.me/Exyss)]
   - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
   - Collaboratore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
-  - Co-gestore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
+  - Co-gestore repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
 
 - Radu Ionut **Barbalata** ([@i0nut02](https://github.com/i0nut02)) [[Telegram](https://telegram.me/Sono_Ionut)]
   - Collaboratore repository di Automi, Calcolabilità e Complessità 23/24 (Prof. Venturi, [acc2324](https://github.com/sapienzastudentsnetwork/acc2324))
@@ -153,6 +154,12 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 > [!NOTE]
 > Se desideri contribuire a mantenere aggiornati e gestiti dei repository GitHub parte di questa organizzazione, con o senza farne integralmente parte, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione - indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram - per chiedere di essere aggiunto ai singoli repository come collaboratore esterno 🙂
 
+- Marcello **Galisai** ([GitHub](https://github.com/marcellogalisai)) [[Telegram](https://telegram.me/marcellogalisai)]
+  - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
+ 
+- Michele **Palma** ([GitHub](https://github.com/palmaaaa)) [[Telegram](https://telegram.me/flyingmp)]
+  - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
+
 - ??? ([@Warcophyr](https://github.com/Warcophyr)) [[Telegram](https://telegram.me/Warcophyr)]
   - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
 
@@ -160,7 +167,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Collaboratore repository di Calcolo delle Probabilità 23/24 (Prof. Bertini, [calcprob2324](https://github.com/sapienzastudentsnetwork/calcprob2324))
 
 - Andrea **Lugini** ([@LuginiAndrea](https://github.com/LuginiAndrea)) [[Telegram](https://telegram.me/@abbbbellodecasettaa)]
-  - Collaboratore repository di Metodi Matematici A-L 21/22 ([mmi2122](https://github.com/sapienzastudentsnetwork/mmi2122))
+  - Collaboratore repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
 
 - Matteo **Angeloro** ([@teoang](https://github.com/teoang)) [[Telegram](https://telegram.me/teoang)]
   - Collaboratore repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
