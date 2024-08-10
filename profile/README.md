@@ -11,7 +11,7 @@
 > [!TIP]
 > Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi [gruppi Telegram](https://t.me/SapienzaStudentsNetwork/7) disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili!
 
-## 💬 Forum Esercizi e Soluzioni (2024)
+## 💬 Forum Esercizi e Soluzioni (2024/25)
 
 > [!NOTE]
 > Se desideri contribuire, creando nuovi repository per altri canali di insegnamento o corsi oppure gestendo o aggiornando uno dei repository Forum Esercizi e Soluzioni parte di questa organizzazione GitHub, con o senza entrare a farne integralmente parte, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram 🙂
@@ -34,7 +34,7 @@
 
   - [Algebra](https://github.com/sapienzastudentsnetwork/algebra)
   - [Basi di Dati I](https://github.com/sapienzastudentsnetwork/basi-di-dati-1)
-  - Calcolo delle Probabilità [[Bertini]](https://github.com/sapienzastudentsnetwork/calcprob2324) [[Isopi, 2022-2023]](https://github.com/sapienzastudentsnetwork/calcprob2223)
+  - [Calcolo delle Probabilità](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita)
 
 - Secondo Semestre
 
@@ -101,7 +101,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli)) [[Telegram](https://telegram.me/ShingekiNoKen)]
   - Creatore repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
-  - Creatore repository di Calcolo delle Probabilità A-L 23/24 ([calcprob2324](https://github.com/sapienzastudentsnetwork/calcprob2324))
+  - Creatore repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
   - Creatore repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
   - Collaboratore repository di Sistemi Digitali A-L 22/23 ([psd2223](https://github.com/sapienzastudentsnetwork/psd2223))
 
@@ -164,7 +164,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
 
 - Federico **Fantozzi** ([@CiottoloMaggico](https://github.com/CiottoloMaggico)) [[Telegram](https://telegram.me/ciottolomaggico)]
-  - Collaboratore repository di Calcolo delle Probabilità 23/24 (Prof. Bertini, [calcprob2324](https://github.com/sapienzastudentsnetwork/calcprob2324))
+  - Collaboratore repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
 
 - Andrea **Lugini** ([@LuginiAndrea](https://github.com/LuginiAndrea)) [[Telegram](https://telegram.me/@abbbbellodecasettaa)]
   - Collaboratore repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
