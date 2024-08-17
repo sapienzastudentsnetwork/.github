@@ -9,7 +9,7 @@
 ✨ Questa organizzazione comprende anche, e probabilmente ne seguiranno altri in futuro, [progetti di altro tipo](#-altri-progetti-interessanti) e [raccolte di schede di esercizi](#-schede-di-esercizi), così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repository e progetti da parte tua 🙂
 
 > [!TIP]
-> Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi [gruppi Telegram](https://t.me/SapienzaStudentsNetwork/7) disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili!
+> Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi [gruppi Telegram](https://t.me/SapienzaStudentsBot) disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili!
 
 ## 💬 Forum Esercizi e Soluzioni (2024/25)
 
