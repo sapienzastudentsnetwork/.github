@@ -113,9 +113,14 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Collaboratore repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Aglaia **Norza** ([@aglaianorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
-  - Co-gestrice repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
-  - Co-gestrice repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
-  - Co-gestrice repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
+  - Co-gestrice M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
+  - Co-gestrice M-Z repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
+  - Co-gestrice M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
+
+- Matteo **R.** ([@rimaout](https://github.com/rimaout))
+  - Co-gestore M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
+  - Co-gestore M-Z repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
+  - Co-gestore M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
 
 - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://telegram.me/Exyss)]
   - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
@@ -128,6 +133,12 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 
 - Leonardo **Biason** ([@ElBi21](https://github.com/ElBi21)) [[Telegram](https://telegram.me/ElBi21)]
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
+
+- Emanuele **D'Agostino** ([@Rurik-D](https://github.com/Rurik-D)) [[Telegram](https://telegram.me/Rurik_D)]
+  - Co-gestore A-L repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
+
+- Giuseppe **Borracci** ([@Rurik-D](https://github.com/GiusTMP)) [[Telegram](https://telegram.me/GiusTmp11)]
+  - Co-gestore A-L repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
 
 - Giovanni **Cinieri** ([@Gio0203c](https://github.com/Gio0203c)) [[Telegram](https://telegram.me/Gio0203c)]
   - Creatore repository di Calcolo Integrale A-L 22/23 ([calcint2223](https://github.com/sapienzastudentsnetwork/calcint2223))
