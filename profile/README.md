@@ -179,6 +179,9 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Collaboratore M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
   - Collaboratore M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
 
+- Oriana **Deliallisi** ([@orianani311](https://github.com/orianani311)) [[Telegram](https://t.me/orianani)]
+  - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
+
 - Marcello **Galisai** ([@marcellogalisai](https://github.com/marcellogalisai)) [[Telegram](https://telegram.me/marcellogalisai)]
   - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
  
