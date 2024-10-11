@@ -131,10 +131,11 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
   - Collaboratore M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
 
-- Lorenzo **Antonelli** ([@Lorenzoantonelli](https://github.com/Lorenzoantonelli/)) [[Telegram](https://telegram.me/lorenzosphotos)]
+- Leonardo **Biason** ([@ElBi21](https://github.com/ElBi21)) [[Telegram](https://telegram.me/ElBi21)]
+  - Collaboratore repository di Programmazione di Sistemi Embedded e Multicore ([programmazione-di-sistemi-embedded-e-multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore))
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
 
-- Leonardo **Biason** ([@ElBi21](https://github.com/ElBi21)) [[Telegram](https://telegram.me/ElBi21)]
+- Lorenzo **Antonelli** ([@Lorenzoantonelli](https://github.com/Lorenzoantonelli/)) [[Telegram](https://telegram.me/lorenzosphotos)]
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
 
 - Emanuele **D'Agostino** ([@Rurik-D](https://github.com/Rurik-D)) [[Telegram](https://telegram.me/Rurik_D)]
