@@ -1,7 +1,7 @@
 # Benvenuto/a sul GitHub di Sapienza Students Network!
 
 <a href="https://t.me/s/SapienzaStudentsNetwork">
-    <img src="https://github.com/user-attachments/assets/0fc87fbd-303f-4a03-b373-75df4023ca44" alt="three-years-achievement" align="right" width="28%">
+    <img src="https://github.com/user-attachments/assets/0fc87fbd-303f-4a03-b373-75df4023ca44" alt="three-years-achievement" align="right" width="45%">
 </a>
 
 🚀 **Sapienza Students Network** rappresenta un ambizioso progetto intrapreso da un'organizzazione studentesca indipendente, mirato a promuovere iniziative collaborative e a favorire un senso di comunità tra gli studenti e le studentesse dell'Ateneo più grande d'Europa
