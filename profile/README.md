@@ -1,7 +1,10 @@
 # Benvenuto/a sul GitHub di Sapienza Students Network!
 
-[![three-years-achievement](https://github.com/user-attachments/assets/5d9161e5-4d10-4d72-bb7b-3a9d66d72d7c)](https://t.me/s/SapienzaStudentsNetwork)
+<a href="https://t.me/s/SapienzaStudentsNetwork">
+    <img src="https://github.com/user-attachments/assets/0fc87fbd-303f-4a03-b373-75df4023ca44" alt="three-years-achievement" align="right" width="30%">
+</a>
 
+https://github.com/user-attachments/assets/0fc87fbd-303f-4a03-b373-75df4023ca44
 🚀 **Sapienza Students Network** rappresenta un ambizioso progetto intrapreso da un'organizzazione studentesca indipendente, mirato a promuovere iniziative collaborative e a favorire un senso di comunità tra gli studenti e le studentesse dell'Ateneo più grande d'Europa
 
 💬 Il focus di questa organizzazione GitHub in particolare è la realizzazione, attraverso repository GitHub, di [forum](#-forum-esercizi-e-soluzioni-2024) (realizzati tramite un README.md guida e l'utilizzo degli "issues" o delle "discussions") per lo scambio e il confronto di soluzioni agli esercizi o vecchie tracce di esame di corsi universitari per cui non sono presenti pubblicamente delle soluzioni ufficiali
