@@ -78,7 +78,7 @@
 
 #### 🌐 sapienzastudents.net
 
-Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli studenti e le studentesse dei Corsi di Laurea afferenti al Consiglio di Area Didattica (CAD) in Informatica di Sapienza. Vuoi contribuire anche tu al progetto? [Scopri come!](https://sapienzastudents.net/it/contribuire/come-contribuire/)
+Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli studenti e le studentesse dei Corsi di Laurea afferenti al Dipartimento di Informatica a Sapienza. Vuoi contribuire anche tu al progetto? [Scopri come!](https://sapienzastudents.net/it/contribuire/come-contribuire/)
 
 ### 🤖 TGroupsIndexerBot (SapienzaStudentsBot)
 
