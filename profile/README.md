@@ -152,7 +152,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 - Emanuele **D'Agostino** ([@Rurik-D](https://github.com/Rurik-D)) [[Telegram](https://telegram.me/Rurik_D)]
   - Co-gestore A-L repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
 
-- Giuseppe **Borracci** ([@Rurik-D](https://github.com/GiusTMP)) [[Telegram](https://telegram.me/GiusTmp11)]
+- Giuseppe **Borracci** ([@GiusTMP](https://github.com/GiusTMP)) [[Telegram](https://telegram.me/GiusTmp11)]
   - Co-gestore A-L repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
 
 - Giovanni **Cinieri** ([@Gio0203c](https://github.com/Gio0203c)) [[Telegram](https://telegram.me/Gio0203c)]
