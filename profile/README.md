@@ -80,9 +80,9 @@
 
 Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli studenti e le studentesse dei Corsi di Laurea afferenti al Dipartimento di Informatica a Sapienza. Vuoi contribuire anche tu al progetto? [Scopri come!](https://sapienzastudents.net/it/contribuire/come-contribuire/)
 
-### 🤖 TGroupsIndexerBot (SapienzaStudentsBot)
+### 👥 SapienzaStudentsBot
 
-[TGroupsIndexerBot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot) is a Telegram bot in Python (via python-telegram-bot) for indexing groups part of telegram networks (codebase of [SapienzaStudentsBot](https://telegram.me/SapienzaStudentsBot))
+[SapienzaStudentsBot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot) è il progetto di un [bot Telegram](https://t.me/SapienzaStudentsBot) che serve da navigatore per gruppi gestiti da studenti e studentesse dell'ateneo
 
 ## 👷 Gestori repository dell'organizzazione
 
@@ -114,6 +114,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Ha collaborato al repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
 
 - Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
+  - Gestore repository di AUtomi, Clacolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
   - Ha co-gestito il repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
   - Ha creato e gestito il repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
   - Ha collaborato al repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
