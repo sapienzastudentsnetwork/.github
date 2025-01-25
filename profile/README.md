@@ -91,7 +91,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 
 - Matteo **Collica** ([@Matypist](https://github.com/Matypist)) [[Telegram](https://telegram.me/Matypist)]
   - Creatore e gestore dell'organizzazione GitHub ([@sapienzastudentsnetwork](../../../..))
-  - Creatore e gestore repository di TGroupsIndexerBot ([tgroupsindexerbot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot))
+  - Creatore e gestore repository di SapienzaStudentsBot ([sapienzastudentsbot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot))
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
   - Creatore repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
   - Ha creato e gestito il repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
@@ -162,7 +162,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 
 - Damiano **Gualandri** ([@dag7dev](https://github.com/dag7dev)) [[Telegram](https://telegram.me/DagSieben)]
   - Creatore repository di Distributed Systems 23/24 ([distributed-systems-2023-2024](https://github.com/sapienzastudentsnetwork/distributed-systems-2023-2024))
-  - Collaboratore repository di TGroupsIndexerBot ([tgroupsindexerbot](https://github.com/sapienzastudentsnetwork/tgroupsindexerbot))
+  - Ha collaborato al repository di SapienzaStudentsBot ([sapienzastudentsbot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot))
 
 - ??? ([@progettistamatto](https://github.com/progettistamatto))
   - Gestore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
