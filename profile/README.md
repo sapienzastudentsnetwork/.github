@@ -94,7 +94,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Creatore e gestore repository di SapienzaStudentsBot ([sapienzastudentsbot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot))
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
   - Creatore repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
-  - Gestore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
+  - Co-gestore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Ha creato e gestito il repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
   - Ha creato e gestito il repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
   - Ha creato e gestito il repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
@@ -123,7 +123,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Ha collaborato al repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Aglaia **Norza** ([@aglaianorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
-  - Gestrice M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
+  - Co-gestrice M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Gestrice M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
   - Gestrice repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
   - Gestrice M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita)
