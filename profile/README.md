@@ -94,6 +94,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Creatore e gestore repository di SapienzaStudentsBot ([sapienzastudentsbot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot))
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
   - Creatore repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
+  - Gestore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Ha creato e gestito il repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
   - Ha creato e gestito il repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
   - Ha creato e gestito il repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
@@ -102,8 +103,8 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 - Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
   - Co-gestore repository di Programmazione di Sistemi Embedded e Multicore ([programmazione-di-sistemi-embedded-e-multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore))
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
-  - Creatore e gestore repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
-  - Creatore e gestore repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
+  - Ha creato e gestito il repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
+  - Ha creato e gestito il repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Ha creato e gestito il repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
 
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli))
@@ -114,12 +115,18 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Ha collaborato al repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
 
 - Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
-  - Gestore repository di Automi, Clacolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
+  - Gestore repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
   - Ha co-gestito il repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
   - Ha creato e gestito il repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
   - Ha collaborato al repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
   - Ha collaborato al repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
   - Ha collaborato al repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
+
+- Aglaia **Norza** ([@aglaianorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
+  - Gestrice M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
+  - Gestrice M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
+  - Gestrice repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
+  - Gestrice M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita)
 
 - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://telegram.me/Exyss)]
   - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
@@ -127,19 +134,15 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Collaboratore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
   - Co-gestore repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
 
-- Aglaia **Norza** ([@aglaianorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
-  - Gestrice M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
-  - Gestrice repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
-  - Gestrice M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
-
 - Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
+  - Collaboratore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Collaboratore M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
   - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
   - Collaboratore M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
 
 - Matteo **R.** ([@rimaout](https://github.com/rimaout))
+  - Collaboratore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Gestore M-Z repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
-  - Collaboratore M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
   - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
   - Collaboratore M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
 
@@ -151,14 +154,14 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
 
 - Emanuele **D'Agostino** ([@Rurik-D](https://github.com/Rurik-D)) [[Telegram](https://telegram.me/Rurik_D)]
-  - Co-gestore A-L repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
+  - Ha gestito la parte A-L del repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
 
 - Giuseppe **Borracci** ([@GiusTMP](https://github.com/GiusTMP)) [[Telegram](https://telegram.me/GiusTmp11)]
-  - Co-gestore A-L repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
+  - Ha gestito la parte A-L del repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
 
 - Giovanni **Cinieri** ([@Gio0203c](https://github.com/Gio0203c)) [[Telegram](https://telegram.me/Gio0203c)]
-  - Creatore repository di Calcolo Integrale A-L 22/23 ([calcint2223](https://github.com/sapienzastudentsnetwork/calcint2223))
-  - Creatore repository di Metodologie di Programmazione A-L 22/23 ([mdp2223](https://github.com/sapienzastudentsnetwork/mdp2223))
+  - Ha creato e gestito il repository di Calcolo Integrale A-L 22/23 ([calcint2223](https://github.com/sapienzastudentsnetwork/calcint2223))
+  - Ha creato e gestito il repository di Metodologie di Programmazione A-L 22/23 ([mdp2223](https://github.com/sapienzastudentsnetwork/mdp2223))
 
 - Damiano **Gualandri** ([@dag7dev](https://github.com/dag7dev)) [[Telegram](https://telegram.me/DagSieben)]
   - Creatore repository di Distributed Systems 23/24 ([distributed-systems-2023-2024](https://github.com/sapienzastudentsnetwork/distributed-systems-2023-2024))
@@ -193,13 +196,13 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Collaboratore M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
 
 - Oriana **Deliallisi** ([@orianani311](https://github.com/orianani311)) [[Telegram](https://t.me/orianani)]
-  - Collaboratrice repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
+  - Ha collaborato al repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
 
 - Marcello **Galisai** ([@marcellogalisai](https://github.com/marcellogalisai)) [[Telegram](https://telegram.me/marcellogalisai)]
-  - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
+  - Ha collaborato al repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
  
 - Michele **Palma** ([@palmaaaa](https://github.com/palmaaaa)) [[Telegram](https://telegram.me/flyingmp)]
-  - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
+  - Ha collaborato al repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
 
 - ??? ([@Warcophyr](https://github.com/Warcophyr)) [[Telegram](https://telegram.me/Warcophyr)]
   - Ha collaborato al repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
