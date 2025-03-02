@@ -8,7 +8,7 @@
 
 🚀 **Sapienza Students Network** rappresenta un ambizioso progetto intrapreso da un'organizzazione studentesca indipendente, mirato a promuovere iniziative collaborative e a favorire un senso di comunità tra gli studenti e le studentesse dell'Ateneo più grande d'Europa
 
-💬 Il focus di questa organizzazione GitHub in particolare è la realizzazione, attraverso repository GitHub, di [forum](#-forum-esercizi-e-soluzioni-2024) (realizzati tramite un README.md guida e l'utilizzo degli "issues" o delle "discussions") per lo scambio e il confronto di soluzioni agli esercizi o vecchie tracce di esame di corsi universitari per cui non sono presenti pubblicamente delle soluzioni ufficiali
+💬 Il focus di questa organizzazione GitHub in particolare è la realizzazione, attraverso repository GitHub, di [forum](#-forum-esercizi-e-soluzioni-202425) (realizzati tramite un README.md guida e l'utilizzo degli "issues" o delle "discussions") per lo scambio e il confronto di soluzioni agli esercizi o vecchie tracce di esame di corsi universitari per cui non sono presenti pubblicamente delle soluzioni ufficiali
 
 - Attualmente sono presenti repository di questo tipo principalmente per il corso di laurea triennale in [Informatica (29923)](#-informatica-triennale-29923), ma non escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
 
