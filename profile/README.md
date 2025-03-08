@@ -123,7 +123,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Ha collaborato al repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Aglaia **Norza** ([@aglaianorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
-  - Co-gestrice M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
+  - Collaboratrice M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Collaboratorice M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
   - Gestrice M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
   - Gestrice repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
@@ -137,7 +137,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 
 - Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
   - Co-gestore M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
-  - Collaboratore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
+  - Co-gestore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Collaboratore M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
   - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
   - Collaboratore M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
