@@ -51,6 +51,7 @@
 - Primo Semestre
 
   - [Automi, Calcolabilità e Complessità](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita)
+  - [Modelli e Ottimizzazione](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione)
   - [Programmazione di Sistemi Embedded e Multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore)
 
 ### 👨‍💻 Computer Science (master's) [29932]
@@ -108,6 +109,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Ha creato e gestito il repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
 
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli))
+  - Gestore repository di Modelli e Ottimizzazione ([modelli-e-ottimizzazione](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione))
   - Co-gestore repository di Programmazione di Sistemi Embedded e Multicore ([programmazione-di-sistemi-embedded-e-multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore))
   - Ha creato e gestito il repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
   - Ha creato e gestito il repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
