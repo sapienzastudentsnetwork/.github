@@ -51,8 +51,11 @@
 - Primo Semestre
 
   - [Automi, Calcolabilità e Complessità](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita)
-  - [Modelli e Ottimizzazione](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione)
   - [Programmazione di Sistemi Embedded e Multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore)
+
+- Secondo Semestre
+
+  - [Modelli e Ottimizzazione](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione) 
 
 ### 👨‍💻 Computer Science (master's) [29932]
 
