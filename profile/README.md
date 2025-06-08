@@ -112,20 +112,21 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Ha creato e gestito il repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
   - Ha collaborato al repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
 
+- Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
+  - Gestore A-L repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
+  - Ha gestito il repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
+  - Ha co-gestito il repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
+  - Ha creato e gestito il repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
+  - Ha collaborato al repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
+  - Ha collaborato al repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
+  - Ha collaborato al repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
+
 - Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
   - Co-gestore repository di Programmazione di Sistemi Embedded e Multicore ([programmazione-di-sistemi-embedded-e-multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore))
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
   - Ha creato e gestito il repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
   - Ha creato e gestito il repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Ha creato e gestito il repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
-
-- Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
-  - Gestore repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
-  - Ha co-gestito il repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
-  - Ha creato e gestito il repository di Calcolo Differenziale 23/24 ([calcdiff2324](https://github.com/sapienzastudentsnetwork/calcdiff2324))
-  - Ha collaborato al repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
-  - Ha collaborato al repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
-  - Ha collaborato al repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Aglaia **Norza** ([@aglaianorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
   - Collaboratrice M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
