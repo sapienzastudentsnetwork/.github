@@ -17,12 +17,12 @@
 > [!TIP]
 > Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi [gruppi Telegram](https://t.me/SapienzaStudentsBot) disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili!
 
-## 💬 Forum Esercizi e Soluzioni (2024/25)
+## 💬 Forum Esercizi e Soluzioni (2025/26)
 
 > [!NOTE]
 > Se desideri contribuire, creando nuovi repository per altri canali di insegnamento o corsi oppure gestendo o aggiornando uno dei repository Forum Esercizi e Soluzioni parte di questa organizzazione GitHub, con o senza entrare a farne integralmente parte, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram 🙂
 
-### 👨‍💻 Informatica (triennale) [29923]
+### 👨‍💻 Informatica (triennale)
 
 **Primo Anno**
 - Primo Semestre
@@ -57,14 +57,18 @@
 
   - [Modelli e Ottimizzazione](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione) 
 
-### 👨‍💻 Computer Science (master's) [29932]
+### 👨‍💻 Computer Science (master's)
 
 - [Cryptography](https://github.com/sapienzastudentsnetwork/cryptography)
 - [Distributed Systems](https://github.com/sapienzastudentsnetwork/distributed-systems)
 
+### 🛡️ Cybersecurity (master's)
+
+- [Cryptography](https://github.com/sapienzastudentsnetwork/cryptography)
+
 ## 📚 Schede di esercizi
 
-### 👨‍💻 Informatica (triennale) [29923]
+### 👨‍💻 Informatica (triennale)
 
 **Primo Anno**
 - Primo Semestre
@@ -77,9 +81,7 @@
 > [!NOTE]
 > Se hai in mente un progetto, che possa essere d'interesse per gli studenti e le studentesse dell'ateneo, che vorresti avviare o per cui vorresti collaborare insieme alla comunità studentesca dell'ateneo in particolare, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione - indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram - per proporre la tua idea o il tuo progetto affinché venga eventualmente accolto all'interno di questa organizzazione GitHub, ed eventualmente offrirti di esserne il curatore 🙂
 
-### 👨‍💻 Informatica (triennale) [29923]
-
-#### 🌐 sapienzastudents.net
+### 🌐 sapienzastudents.net
 
 Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli studenti e le studentesse dei Corsi di Laurea afferenti al Dipartimento di Informatica a Sapienza. Vuoi contribuire anche tu al progetto? [Scopri come](https://sapienzastudents.net/it/contribuire/come-contribuire/)!
 
