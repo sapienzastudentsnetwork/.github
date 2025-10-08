@@ -59,8 +59,7 @@
 
 ### 👨‍💻 Computer Science (master's) [29932]
 
-**Primo Semestre**
-
+- [Cryptography](https://github.com/sapienzastudentsnetwork/cryptography)
 - [Distributed Systems](https://github.com/sapienzastudentsnetwork/distributed-systems)
 
 ## 📚 Schede di esercizi
@@ -137,8 +136,8 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 
 - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://telegram.me/Exyss)]
   - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
+  - Gestore repository di Cryptography ([cryptography](https://github.com/sapienzastudentsnetwork/cryptography))
   - Co-gestore repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
-  - Collaboratore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
   - Co-gestore repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
 
 - Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
