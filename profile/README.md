@@ -167,6 +167,9 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 - Lorenzo **Antonelli** ([@Lorenzoantonelli](https://github.com/Lorenzoantonelli/)) [[Telegram](https://telegram.me/lorenzosphotos)]
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
 
+- Samuele **Lombardi** ([@Dieal](https://github.com/Dieal)) [[Telegram](https://t.me/dieaaal)]
+  - Gestore A-L repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
+
 - Emanuele **D'Agostino** ([@Rurik-D](https://github.com/Rurik-D)) [[Telegram](https://telegram.me/Rurik_D)]
   - Ha gestito la parte A-L del repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
 
