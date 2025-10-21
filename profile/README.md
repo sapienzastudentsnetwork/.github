@@ -61,6 +61,7 @@
 
 - [Cryptography](https://github.com/sapienzastudentsnetwork/cryptography)
 - [Distributed Systems](https://github.com/sapienzastudentsnetwork/distributed-systems)
+- [High Performance Computing](https://github.com/sapienzastudentsnetwork/high-performance-computing)
 
 ### 🛡️ Cybersecurity (master's)
 
@@ -106,6 +107,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Ha collaborato al repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli))
+  - Co-gestore repository di High Performance Computing ([high-performance-computing](https://github.com/sapienzastudentsnetwork/high-performance-computing))
   - Gestore repository di Modelli e Ottimizzazione ([modelli-e-ottimizzazione](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione))
   - Co-gestore repository di Programmazione di Sistemi Embedded e Multicore ([programmazione-di-sistemi-embedded-e-multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore))
   - Ha creato e gestito il repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
@@ -142,6 +144,11 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Co-gestore repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
   - Co-gestore repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
 
+- Leonardo **Biason** ([@ElBi21](https://github.com/ElBi21)) [[Telegram](https://telegram.me/ElBi21)]
+  - Co-gestore repository di High Performance Computing ([high-performance-computing](https://github.com/sapienzastudentsnetwork/high-performance-computing))
+  - Co-gestore repository di Programmazione di Sistemi Embedded e Multicore ([programmazione-di-sistemi-embedded-e-multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore))
+  - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
+
 - Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
   - Co-gestore M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
   - Co-gestore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
@@ -159,10 +166,6 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 - Luca **Martinelli** ([@luckignolo32](https://github.com/luckignolo32)) [[Telegram](https://t.me/LucaM1655)]
   - Collaboratore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Collaboratore M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
-
-- Leonardo **Biason** ([@ElBi21](https://github.com/ElBi21)) [[Telegram](https://telegram.me/ElBi21)]
-  - Collaboratore repository di Programmazione di Sistemi Embedded e Multicore ([programmazione-di-sistemi-embedded-e-multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore))
-  - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
 
 - Lorenzo **Antonelli** ([@Lorenzoantonelli](https://github.com/Lorenzoantonelli/)) [[Telegram](https://telegram.me/lorenzosphotos)]
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
