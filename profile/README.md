@@ -100,7 +100,6 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Creatore e gestore repository di SapienzaStudentsBot ([sapienzastudentsbot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot))
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
   - Creatore repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
-  - Co-gestore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Ha creato e gestito il repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
   - Ha creato e gestito il repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
   - Ha creato e gestito il repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
@@ -149,23 +148,23 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Co-gestore repository di Programmazione di Sistemi Embedded e Multicore ([programmazione-di-sistemi-embedded-e-multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore))
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
 
+- Matteo **R.** ([@rimaout](https://github.com/rimaout))
+  - Collaboratore M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
+  - Collaboratore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
+  - Co-gestore M-Z repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
+  - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
+  - Collaboratore M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
+
 - Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
-  - Co-gestore M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
-  - Co-gestore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
+  - Collaboratore M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
+  - Collaboratore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Collaboratore M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
   - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
   - Collaboratore M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
 
-- Matteo **R.** ([@rimaout](https://github.com/rimaout))
-  - Co-gestore M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
-  - Collaboratore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
-  - Gestore M-Z repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
-  - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
-  - Collaboratore M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
-
 - Luca **Martinelli** ([@luckignolo32](https://github.com/luckignolo32)) [[Telegram](https://t.me/LucaM1655)]
-  - Collaboratore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
-  - Collaboratore M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
+  - Co-gestore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
+  - Co-gestore M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
 
 - Lorenzo **Antonelli** ([@Lorenzoantonelli](https://github.com/Lorenzoantonelli/)) [[Telegram](https://telegram.me/lorenzosphotos)]
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
