@@ -6,13 +6,22 @@
 </a>
 -->
 
-🚀 **Sapienza Students Network** rappresenta un ambizioso progetto intrapreso da un'organizzazione studentesca indipendente, mirato a promuovere iniziative collaborative e a favorire un senso di comunità tra le studentesse e gli studenti dell'Ateneo più grande d'Europa
+🚀 **Sapienza Students Network** rappresenta un ambizioso progetto intrapreso da un'organizzazione studentesca
+indipendente,  mirato a promuovere iniziative collaborative e a favorire un senso di comunità tra le studentesse
+e gli studenti dell'Ateneo più grande d'Europa
 
-💬 Il focus di questa organizzazione GitHub in particolare è la realizzazione, attraverso repository GitHub, di [forum](#-forum-esercizi-e-soluzioni-202425) (realizzati tramite un README.md guida e l'utilizzo degli "issues" o delle "discussions") per lo scambio e il confronto di soluzioni agli esercizi o vecchie tracce di esame di corsi universitari per cui non sono presenti pubblicamente delle soluzioni ufficiali
+💬 Il focus di questa organizzazione GitHub in particolare è la creazione di repository che fungano da [forum](#-forum-esercizi-e-soluzioni-202425)
+per lo scambio di soluzioni. Sfruttando i README, le issues o le discussions, questi spazi permettono di confrontarsi su
+esercizi e tracce d'esame passate, colmando la mancanza di soluzioni ufficiali da parte dei docenti.
 
-- Attualmente sono presenti repository di questo tipo principalmente per i corsi di laurea in [Informatica](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-informatica-triennale-1) e [Computer Science](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-computer-science-masters), ma non escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
+Attualmente sono presenti repository di questo tipo principalmente per i corsi di laurea in
+[Informatica](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-informatica-triennale-1) e
+[Computer Science](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-computer-science-masters), ma non
+escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
 
-✨ Questa organizzazione comprende anche, e probabilmente ne seguiranno altri in futuro, [progetti di altro tipo](#-altri-progetti-interessanti) e [raccolte di schede di esercizi](#-schede-di-esercizi), così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repository e progetti da parte tua 🙂
+✨ Questa organizzazione comprende anche, e probabilmente ne seguiranno altri in futuro,
+[progetti di altro tipo](#-altri-progetti-interessanti) e [raccolte di schede di esercizi](#-schede-di-esercizi),
+così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repository e progetti da parte tua 🙂
 
 > [!IMPORTANT]
 > Non dimenticarti di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e scopri i gruppi Telegram disponibili tramite il [nostro Bot](https://t.me/SapienzaStudentsBot): è il modo migliore per restare al passo con novità, iniziative e risorse utili!
