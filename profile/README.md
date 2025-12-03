@@ -72,7 +72,7 @@ così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repos
 
   - [Modelli e Ottimizzazione](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione) 
 
-### 👨‍💻 Computer Science (master's)
+### 🧑‍🔬 Computer Science (master's)
 
 - [Cryptography](https://github.com/sapienzastudentsnetwork/cryptography)
 - [Distributed Systems](https://github.com/sapienzastudentsnetwork/distributed-systems)
