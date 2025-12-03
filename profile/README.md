@@ -6,21 +6,27 @@
 </a>
 -->
 
-🚀 **Sapienza Students Network** rappresenta un ambizioso progetto intrapreso da un'organizzazione studentesca indipendente, mirato a promuovere iniziative collaborative e a favorire un senso di comunità tra gli studenti e le studentesse dell'Ateneo più grande d'Europa
+🚀 **Sapienza Students Network** rappresenta un ambizioso progetto intrapreso da un'organizzazione studentesca indipendente, mirato a promuovere iniziative collaborative e a favorire un senso di comunità tra le studentesse e gli studenti dell'Ateneo più grande d'Europa
 
 💬 Il focus di questa organizzazione GitHub in particolare è la realizzazione, attraverso repository GitHub, di [forum](#-forum-esercizi-e-soluzioni-202425) (realizzati tramite un README.md guida e l'utilizzo degli "issues" o delle "discussions") per lo scambio e il confronto di soluzioni agli esercizi o vecchie tracce di esame di corsi universitari per cui non sono presenti pubblicamente delle soluzioni ufficiali
 
-- Attualmente sono presenti repository di questo tipo principalmente per il corso di laurea triennale in [Informatica (29923)](#-informatica-triennale-29923), ma non escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
+- Attualmente sono presenti repository di questo tipo principalmente per i corsi di laurea in [Informatica](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-informatica-triennale-1) e [Computer Science](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-computer-science-masters), ma non escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
 
 ✨ Questa organizzazione comprende anche, e probabilmente ne seguiranno altri in futuro, [progetti di altro tipo](#-altri-progetti-interessanti) e [raccolte di schede di esercizi](#-schede-di-esercizi), così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repository e progetti da parte tua 🙂
 
-> [!TIP]
-> Assicurati di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e ai numerosi [gruppi Telegram](https://t.me/SapienzaStudentsBot) disponibili per tenerti sempre aggiornato su eventuali novità, ulteriori iniziative e risorse utili!
+> [!IMPORTANT]
+> Non dimenticarti di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e scopri i gruppi Telegram disponibili tramite il [nostro Bot](https://t.me/SapienzaStudentsBot): è il modo migliore per restare al passo con novità, iniziative e risorse utili!
 
 ## 💬 Forum Esercizi e Soluzioni (2025/26)
 
-> [!NOTE]
-> Se desideri contribuire, creando nuovi repository per altri canali di insegnamento o corsi oppure gestendo o aggiornando uno dei repository Forum Esercizi e Soluzioni parte di questa organizzazione GitHub, con o senza entrare a farne integralmente parte, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione, indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram 🙂
+> [!TIP]
+> I [Forum di Esercizi e Soluzioni](#-forum-esercizi-e-soluzioni-202526) sono
+> aperti a nuovi collaboratori — ogni contributo, come l'aggiunta di nuove tracce d'esame o esercizi, è prezioso per
+> mantenere aggiornati singoli forum (anche in vista di alcuni cambi docente per gli insegnamenti di quest'anno).
+>
+> Se desideri renderti ulteriormente protagonista della loro gestione, puoi proporti ai [relativi gestori attuali]((#-gestori-repository-dellorganizzazione)),
+> a Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)] o a un [membro del Consiglio Direttivo di Sapienza Students Network](https://sapienzastudents.net/sapienza-students-network/#-executive-board) —
+> anche attraverso l'apposito bot Telegram di contatto (https://telegram.me/SapienzaStudentsNetworkBot).
 
 ### 👨‍💻 Informatica (triennale)
 
@@ -79,24 +85,26 @@
 
 ## ✨ Altri progetti interessanti
 
-> [!NOTE]
-> Se hai in mente un progetto, che possa essere d'interesse per gli studenti e le studentesse dell'ateneo, che vorresti avviare o per cui vorresti collaborare insieme alla comunità studentesca dell'ateneo in particolare, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione - indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram - per proporre la tua idea o il tuo progetto affinché venga eventualmente accolto all'interno di questa organizzazione GitHub, ed eventualmente offrirti di esserne il curatore 🙂
+> [!TIP]
+> Se hai in mente un progetto d'interesse per le studentesse e gli studenti dell'ateneo che vorresti avviare, o per cui
+> vorresti collaborare con la comunità studentesca, puoi contattare Matteo **Collica** ([@Matypist](https://github.com/Matypist)) [[Telegram](https://telegram.me/Matypist)]
+> o scrivere all'indirizzo e-mail dell'organizzazione.
+>
+> Ricordati di indicare l'username (o la mail) del tuo account GitHub e preferibilmente quello di Telegram per proporre
+> la tua idea, farla accogliere nell'organizzazione GitHub ed eventualmente offrirti come maintainer 🙂
 
 ### 🌐 sapienzastudents.net
 
-Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli studenti e le studentesse dei Corsi di Laurea afferenti al Dipartimento di Informatica a Sapienza. Vuoi contribuire anche tu al progetto? [Scopri come](https://sapienzastudents.net/it/contribuire/come-contribuire/)!
+Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle studentesse e gli studenti dei Corsi di Laurea afferenti al Dipartimento di Informatica a Sapienza. Vuoi contribuire anche tu al progetto? [Scopri come](https://sapienzastudents.net/it/contribuire/come-contribuire/)!
 
 ### 👥 SapienzaStudentsBot
 
-[SapienzaStudentsBot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot) è il progetto di un [bot Telegram](https://t.me/SapienzaStudentsBot) che serve da navigatore per gruppi gestiti da studenti e studentesse dell'ateneo, facilitandone l'indicizzazione e la ricerca, soprattutto per aspiranti nuovi studenti.
+[SapienzaStudentsBot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot) è il progetto di un [bot Telegram](https://t.me/SapienzaStudentsBot) che serve da navigatore per gruppi gestiti da studentesse e studenti dell'ateneo, facilitandone l'indicizzazione e la ricerca, soprattutto per aspiranti matricole.
 
 ## 👷 Gestori repository dell'organizzazione
 
-> [!NOTE]
-> Se hai a cuore gli ideali di condivisione e aiuto reciproco tra colleghi, e/o vuoi contribuire facendoti promotore di progetti collaborativi tra studenti e studentesse, puoi considerarti già parte di Sapienza Students Network, e contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione - indicando l'username (o indirizzo e-mail) del tuo account GitHub e l'username del tuo account Telegram, per proporti come membro dell'organizzazione GitHub - e poter quindi eventualmente creare e gestire nuovi repository d'interesse per la comunità studentesca 🙂
-
 - Matteo **Collica** ([@Matypist](https://github.com/Matypist)) [[Telegram](https://telegram.me/Matypist)]
-  - Creatore e gestore dell'organizzazione GitHub ([@sapienzastudentsnetwork](../../../..))
+  - Creatore e gestore dell'organizzazione GitHub ([@sapienzastudentsnetwork](https://github.com/sapienzastudentsnetwork))
   - Creatore e gestore repository di SapienzaStudentsBot ([sapienzastudentsbot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot))
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
   - Creatore repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
@@ -106,6 +114,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Ha collaborato al repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
+  - [Sett. 2025 - adesso] Delegato per la gestione dei Forum dell'organizzazione GitHub ([@sapienzastudentsnetwork](https://github.com/sapienzastudentsnetwork))
   - Co-gestore A-L repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
   - Co-gestore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
   - Ha gestito il repository A-L di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
@@ -195,22 +204,10 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
   - Ha collaborato al repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
   - Ha collaborato al repository di Calcolo delle Probabilità A-L 22/23 ([calcprob2223](https://github.com/sapienzastudentsnetwork/calcprob2223))
 
-- Alessio **Bandiera** ([@aflaag](https://github.com/aflaag)) [[Telegram](https://telegram.me/aflaag)]
-  - Ha collaborato al repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
-
-- Jude J. **Kallarakal** ([@Antaarees](https://github.com/Antaarees)) [[Telegram](https://telegram.me/Antaareess)]
-  - Ha collaborato al repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
-
-- Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
-  - Ha creato il repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
-
 - Federico **Fiorelli** ([@ref1o](https://github.com/ref1o)) [[Telegram](https://telegram.me/federicofiorelli)]
   - Ha collaborato al repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
 
 ## 🧑‍⚕️ Collaboratori esterni
-
-> [!NOTE]
-> Se desideri contribuire a mantenere aggiornati e gestiti dei repository GitHub parte di questa organizzazione, con o senza farne integralmente parte, puoi contattare Matteo Collica ([@Matypist](https://github.com/Matypist)) su [Telegram](https://telegram.me/Matypist) o scrivere una mail all'indirizzo e-mail dell'organizzazione - indicando l'username (o indirizzo e-mail) del tuo account GitHub e (preferibilmente) l'username del tuo account Telegram - per chiedere di essere aggiunto ai singoli repository come collaboratore esterno 🙂
 
 - Marco **Severini** ([@marcoseverini](https://github.com/marcoseverini)) [[Telegram](https://t.me/severoga)]
   - Collaboratore M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
@@ -225,8 +222,17 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) degli stud
 - Michele **Palma** ([@palmaaaa](https://github.com/palmaaaa)) [[Telegram](https://telegram.me/flyingmp)]
   - Ha collaborato al repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
 
+- Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
+  - Ha creato il repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
+
 - ??? ([@Warcophyr](https://github.com/Warcophyr)) [[Telegram](https://telegram.me/Warcophyr)]
   - Ha collaborato al repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
+
+- Alessio **Bandiera** ([@aflaag](https://github.com/aflaag)) [[Telegram](https://telegram.me/aflaag)]
+  - Ha collaborato al repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
+
+- Jude J. **Kallarakal** ([@Antaarees](https://github.com/Antaarees)) [[Telegram](https://telegram.me/Antaareess)]
+  - Ha collaborato al repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
 
 - Federico **Fantozzi** ([@CiottoloMaggico](https://github.com/CiottoloMaggico)) [[Telegram](https://telegram.me/ciottolomaggico)]
   - Ha collaborato al repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
