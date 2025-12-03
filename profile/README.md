@@ -15,7 +15,7 @@ per lo scambio di soluzioni. Sfruttando i README, le issues o le discussions, qu
 esercizi e tracce d'esame passate, colmando la mancanza di soluzioni ufficiali da parte dei docenti.
 
 Attualmente sono presenti repository di questo tipo principalmente per i corsi di laurea in
-[Informatica](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-informatica-triennale-1) e
+[Informatica](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-informatica-triennale) e
 [Computer Science](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-computer-science-masters), ma non
 escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
 
