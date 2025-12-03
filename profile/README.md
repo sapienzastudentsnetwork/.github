@@ -134,7 +134,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle stud
   - Ha collaborato al repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
   - Ha collaborato al repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
-- Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli))
+- Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli)) [[Telegram](https://telegram.me/elia_belli_02)]
   - Co-gestore repository di High Performance Computing ([high-performance-computing](https://github.com/sapienzastudentsnetwork/high-performance-computing))
   - Gestore repository di Modelli e Ottimizzazione ([modelli-e-ottimizzazione](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione))
   - Ha co-gestito il repository di Programmazione di Sistemi Embedded e Multicore ([programmazione-di-sistemi-embedded-e-multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore))
