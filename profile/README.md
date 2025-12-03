@@ -35,7 +35,7 @@ così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repos
 >
 > Se desideri renderti ulteriormente protagonista della loro gestione, puoi proporti ai [relativi gestori attuali]((#-gestori-repository-dellorganizzazione)),
 > a Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)] o a un [membro del Consiglio Direttivo di Sapienza Students Network](https://sapienzastudents.net/sapienza-students-network/#-executive-board) —
-> anche attraverso l'apposito bot Telegram di contatto (https://telegram.me/SapienzaStudentsNetworkBot).
+> anche attraverso l'apposito [bot Telegram di contatto](https://telegram.me/SapienzaStudentsNetworkBot).
 
 ### 👨‍💻 Informatica (triennale)
 
