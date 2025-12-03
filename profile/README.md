@@ -10,7 +10,7 @@
 indipendente,  mirato a promuovere iniziative collaborative e a favorire un senso di comunità tra le studentesse
 e gli studenti dell'Ateneo più grande d'Europa
 
-💬 Il focus di questa organizzazione GitHub in particolare è la creazione di repository che fungano da [forum](#-forum-esercizi-e-soluzioni-202425)
+💬 Il focus di questa organizzazione GitHub in particolare è la creazione di repository che fungano da [forum](#-forum-esercizi-e-soluzioni-202526)
 per lo scambio di soluzioni. Sfruttando i README, le issues o le discussions, questi spazi permettono di confrontarsi su
 esercizi e tracce d'esame passate, colmando la mancanza di soluzioni ufficiali da parte dei docenti.
 
