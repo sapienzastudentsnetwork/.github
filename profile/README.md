@@ -150,13 +150,6 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle stud
   - Ha creato e gestito il repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Ha creato e gestito il repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
 
-- Aglaia **Norza** ([@aglaianorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
-  - Collaboratrice M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
-  - Collaboratrice M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
-  - Gestrice M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
-  - Co-gestore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
-  - Gestrice M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita)
-
 - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://telegram.me/Exyss)]
   - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
   - Gestore repository di Cryptography ([cryptography](https://github.com/sapienzastudentsnetwork/cryptography))
@@ -217,6 +210,13 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle stud
   - Ha collaborato al repository di Progettazione di Sistemi Digitali ([progettazione-di-sistemi-digitali](https://github.com/sapienzastudentsnetwork/progettazione-di-sistemi-digitali))
 
 ## 🧑‍⚕️ Collaboratori esterni
+
+- Aglaia **Norza** ([@aglaianorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
+  - [Mar. 2025 - Nov. 2025] Ha collaborato alla parte M-Z del repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
+  - [Mar. 2025 - Nov. 2025] Ha collaborato alla parte M-Z del repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
+  - [Sett. 2024 - Nov. 2025] Ha co-gestito la parte M-Z del repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
+  - [Sett. 2024 - Nov. 2025] Ha co-gestito il repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
+  - [Sett. 2024 - Nov. 2025] Ha-cogestito la parte M-Z del repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita)
 
 - Marco **Severini** ([@marcoseverini](https://github.com/marcoseverini)) [[Telegram](https://t.me/severoga)]
   - Collaboratore M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
