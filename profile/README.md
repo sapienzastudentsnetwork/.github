@@ -161,7 +161,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle stud
   - Co-gestore repository di Programmazione di Sistemi Embedded e Multicore ([programmazione-di-sistemi-embedded-e-multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore))
   - Co-gestore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
 
-- Matteo **R.** ([@rimaout](https://github.com/rimaout))
+- Matteo **R.** ([@rimaout](https://github.com/rimaout)) [[Telegram](https://t.me/rimaout)]
   - Collaboratore M-Z repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
   - Collaboratore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - Co-gestore M-Z repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
