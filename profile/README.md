@@ -125,7 +125,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle stud
 - Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
   - [Sett. 2025 - adesso] Delegato per la gestione dei Forum dell'organizzazione GitHub ([@sapienzastudentsnetwork](https://github.com/sapienzastudentsnetwork))
   - Co-gestore A-L repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
-  - Co-gestore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
+  - Ha co-gestito il repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
   - Ha gestito il repository A-L di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
   - Ha gestito il repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
   - Ha co-gestito il repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
