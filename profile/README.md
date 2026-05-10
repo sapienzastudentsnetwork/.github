@@ -77,6 +77,7 @@ così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repos
 - [Cryptography](https://github.com/sapienzastudentsnetwork/cryptography)
 - [Distributed Systems](https://github.com/sapienzastudentsnetwork/distributed-systems)
 - [High Performance Computing](https://github.com/sapienzastudentsnetwork/high-performance-computing)
+- [Internet of Things](https://github.com/sapienzastudentsnetwork/internet-of-things)
 
 ### 🛡️ Cybersecurity (master's)
 
@@ -135,6 +136,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle stud
   - Ha collaborato al repository di Architettura degli Elaboratori ([architettura-degli-elaboratori](https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori))
 
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli)) [[Telegram](https://telegram.me/elia_belli_02)]
+  - Gestore repository di Internet of Things ([internet-of-things](https://github.com/sapienzastudentsnetwork/internet-of-things))
   - Co-gestore repository di High Performance Computing ([high-performance-computing](https://github.com/sapienzastudentsnetwork/high-performance-computing))
   - Gestore repository di Modelli e Ottimizzazione ([modelli-e-ottimizzazione](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione))
   - Ha co-gestito il repository di Programmazione di Sistemi Embedded e Multicore ([programmazione-di-sistemi-embedded-e-multicore](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore))
