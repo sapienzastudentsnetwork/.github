@@ -154,7 +154,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle stud
 
 - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://telegram.me/Exyss)]
   - Collaboratore repository di sapienzastudents.net ([sapienzastudentsnetwork.github.io](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io))
-  - Gestore repository di Cryptography ([cryptography](https://github.com/sapienzastudentsnetwork/cryptography))
+  - Co-gestore repository di Cryptography ([cryptography](https://github.com/sapienzastudentsnetwork/cryptography))
   - Co-gestore repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
   - Co-gestore repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
 
@@ -176,6 +176,10 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle stud
   - Collaboratore repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
   - Collaboratore M-Z repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
   - [Ott. 2024 - Nov. 2024] Ha creato e co-gestito la parte M-Z del repository di Metodi Matematici per l'Informatica ([metodi-matematici-per-l-informatica](https://github.com/sapienzastudentsnetwork/metodi-matematici-per-l-informatica))
+
+- Alessio **Bandiera** ([@aflaag](https://github.com/aflaag)) [[Telegram](https://telegram.me/aflaag)]
+  - [Lug. 2026 - adesso] Co-gestore repository di Cryptography ([cryptography](https://github.com/sapienzastudentsnetwork/cryptography))
+  - Ha collaborato al repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
 
 - Luca **Martinelli** ([@luckignolo32](https://github.com/luckignolo32)) [[Telegram](https://t.me/LucaM1655)]
   - Co-gestore M-Z repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
@@ -202,7 +206,7 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle stud
   - Ha collaborato al repository di SapienzaStudentsBot ([sapienzastudentsbot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot))
 
 - ??? ([@progettistamatto](https://github.com/progettistamatto))
-  - Gestore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
+  - Co-gestore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
 
 - Radu Ionut **Barbalata** ([@i0nut02](https://github.com/i0nut02)) [[Telegram](https://telegram.me/Sono_Ionut)]
   - Ha collaborato al repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
@@ -213,12 +217,17 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle stud
 
 ## 🧑‍⚕️ Collaboratori esterni
 
-- Aglaia **Norza** ([@aglaianorza](https://github.com/aglaianorza))
+> ***Nota:** alcuni dei profili elencati di seguito non collaborano più attivamente alle attività correnti, ma restano menzionati per dare il giusto riconoscimento e credito ai loro contributi passati.*
+
+- Aglaia **Norza**
   - [Mar. 2025 - Nov. 2025] Ha collaborato alla parte M-Z del repository di Progettazione di Algoritmi ([progettazione-di-algoritmi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi))
   - [Mar. 2025 - Nov. 2025] Ha collaborato alla parte M-Z del repository di Reti di Elaboratori ([reti-di-elaboratori](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori))
   - [Sett. 2024 - Nov. 2025] Ha co-gestito la parte M-Z del repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
   - [Sett. 2024 - Nov. 2025] Ha co-gestito il repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
   - [Sett. 2024 - Nov. 2025] Ha co-gestito la parte M-Z del repository di Calcolo delle Probabilità ([calcolo-delle-probabilita](https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita))
+ 
+- ??? ([@CosaFaSelect1](https://github.com/CosaFaSelect1))
+  - Co-gestore repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
 
 - Marco **Severini** ([@marcoseverini](https://github.com/marcoseverini)) [[Telegram](https://t.me/severoga)]
   - Collaboratore M-Z repository di Algebra ([algebra](https://github.com/sapienzastudentsnetwork/algebra))
@@ -236,11 +245,8 @@ Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle stud
 - Lucian D. **Crainic** ([@LucianCrainic](https://github.com/LucianCrainic)) [[Telegram](https://telegram.me/jets3)]
   - Ha creato il repository di Basi di Dati II ([basi-di-dati-2](https://github.com/sapienzastudentsnetwork/basi-di-dati-2))
 
-- ??? ([@Warcophyr](https://github.com/Warcophyr)) [[Telegram](https://telegram.me/Warcophyr)]
+- Marco **Mazzella** ([@Warcophyr](https://github.com/Warcophyr)) [[Telegram](https://telegram.me/Warcophyr)]
   - Ha collaborato al repository di Basi di Dati I ([basi-di-dati-1](https://github.com/sapienzastudentsnetwork/basi-di-dati-1))
-
-- Alessio **Bandiera** ([@aflaag](https://github.com/aflaag)) [[Telegram](https://telegram.me/aflaag)]
-  - Ha collaborato al repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
 
 - Jude J. **Kallarakal** ([@Antaarees](https://github.com/Antaarees)) [[Telegram](https://telegram.me/Antaareess)]
   - Ha collaborato al repository di Automi, Calcolabilità e Complessità ([automi-calcolabilita-complessita](https://github.com/sapienzastudentsnetwork/automi-calcolabilita-complessita))
