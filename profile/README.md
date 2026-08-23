@@ -83,7 +83,8 @@ così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repos
 
 ### 🛡️ Cybersecurity (master's)
 
-- [Cryptography](https://github.com/sapienzastudentsnetwork/cryptography)
+- [Cryptography](https://github.com/sapienzastudentsnetwork/cryptography
+- [Internet of Things](https://github.com/sapienzastudentsnetwork/internet-of-things)
 
 ## 📚 Schede di esercizi
 
