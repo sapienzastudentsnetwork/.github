@@ -6,13 +6,11 @@
 </a>
 -->
 
-🚀 **Sapienza Students Network** rappresenta un ambizioso progetto intrapreso da un'organizzazione studentesca
-indipendente,  mirato a promuovere iniziative collaborative e a favorire un senso di comunità tra le studentesse
-e gli studenti dell'Ateneo più grande d'Europa
+🚀 **Sapienza Students Network** è un'organizzazione studentesca indipendente che sviluppa community, progetti open source e servizi digitali, favorendo collaborazione e aiuto reciproco per vivere al meglio la Sapienza 💙
 
 💬 Il focus di questa organizzazione GitHub in particolare è la creazione di repository che fungano da [forum](#-forum-esercizi-e-soluzioni-202526)
 per lo scambio di soluzioni. Sfruttando i README, le issues o le discussions, questi spazi permettono di confrontarsi su
-esercizi e tracce d'esame passate, colmando la mancanza di soluzioni ufficiali da parte dei docenti.
+esercizi e prove d'esame passate, colmando la mancanza di soluzioni ufficiali da parte dei docenti.
 
 Attualmente sono presenti repository di questo tipo principalmente per i corsi di laurea in
 [Informatica](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-informatica-triennale) e
