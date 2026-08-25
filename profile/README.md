@@ -1,39 +1,28 @@
 # Benvenuto/a sul GitHub di Sapienza Students Network!
 
-<!--
-<a href="https://t.me/s/SapienzaStudentsNetwork">
-    <img src="https://github.com/user-attachments/assets/2b7fd262-ee0d-4c45-953a-6eb433097fa7" alt="three-years-achievement" align="right" width="55%">
-</a>
--->
-
 🚀 **Sapienza Students Network** è un'organizzazione studentesca indipendente che sviluppa community, progetti open source e servizi digitali, favorendo collaborazione e aiuto reciproco per vivere al meglio la Sapienza 💙
 
-💬 Il focus di questa organizzazione GitHub in particolare è la creazione di repository che fungano da [forum](#-forum-esercizi-e-soluzioni-202526)
-per lo scambio di soluzioni. Sfruttando i README, le issues o le discussions, questi spazi permettono di confrontarsi su
-esercizi e prove d'esame passate, colmando la mancanza di soluzioni ufficiali da parte dei docenti.
+🌐 Questa organizzazione GitHub raccoglie e sviluppa diversi progetti collaborativi al servizio della comunità studentesca. Tra questi c'è [**sapienzastudents.net**](https://sapienzastudents.net), il sito web open source curato da studenti e studentesse con wiki, guide, orari, risorse e strumenti utili per orientarsi tra corsi e servizi della Sapienza.
 
-Attualmente sono presenti repository di questo tipo principalmente per i corsi di laurea in
-[Informatica](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-informatica-triennale) e
-[Computer Science](https://github.com/sapienzastudentsnetwork/#%E2%80%8D-computer-science-masters), ma non
-escludiamo di prevederne (anche su vostra proposta e/o gestione magari) anche per altri corsi di laurea in futuro 👀
+💬 Un'altra parte importante dell'organizzazione è costituita dai [**Forum di Esercizi e Soluzioni**](#-forum-esercizi-e-soluzioni-202627): repository aperti in cui, attraverso README, issues e discussions, è possibile confrontarsi su esercizi e prove d'esame passate e condividere risorse didattiche mantenute dalla community. I forum disponibili riguardano soprattutto i corsi di laurea in [Informatica](#informatica-triennale), [Computer Science](#computer-science-masters) e [Cybersecurity](#%EF%B8%8F-cybersecurity-masters), ma siamo aperti a proposte e collaborazioni anche per altri corsi di laurea 👀
 
-✨ Questa organizzazione comprende anche, e probabilmente ne seguiranno altri in futuro,
-[progetti di altro tipo](#-altri-progetti-interessanti) e [raccolte di schede di esercizi](#-schede-di-esercizi),
-così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repository e progetti da parte tua 🙂
+✨ Fanno inoltre parte dell'organizzazione [raccolte di schede di esercizi](#-schede-di-esercizi), [SapienzaStudentsBot](#-sapienzastudentsbot) e altri [progetti di interesse per la comunità studentesca](#-altri-progetti-interessanti). Accogliamo volentieri nuove idee, contributi e persone disponibili a collaborare o a mantenere un progetto 🙂
 
 > [!IMPORTANT]
-> Non dimenticarti di unirti anche al [canale Telegram](https://t.me/SapienzaStudentsNetwork) e scopri i gruppi Telegram disponibili tramite il [nostro Bot](https://t.me/SapienzaStudentsBot): è il modo migliore per restare al passo con novità, iniziative e risorse utili!
+> Unisciti al [canale Telegram](https://t.me/SapienzaStudentsNetwork) per seguire novità, iniziative e risorse utili, e usa [SapienzaStudentsBot](https://t.me/SapienzaStudentsBot) per cercare e raggiungere i gruppi Telegram studenteschi disponibili.
 
 ## 💬 Forum Esercizi e Soluzioni (2026/27)
 
 > [!TIP]
-> I [Forum di Esercizi e Soluzioni](#-forum-esercizi-e-soluzioni-202526) sono
+> I [Forum di Esercizi e Soluzioni](#-forum-esercizi-e-soluzioni-202627) sono
 > aperti a nuovi collaboratori — ogni contributo, come l'aggiunta di nuove tracce d'esame o esercizi, è prezioso per
 > mantenere aggiornati singoli forum (anche in vista di alcuni cambi docente per gli insegnamenti di quest'anno).
 >
-> Se desideri renderti ulteriormente protagonista della loro gestione, puoi proporti ai [relativi gestori attuali]((#-gestori-repository-dellorganizzazione)),
+> Se desideri renderti ulteriormente protagonista della loro gestione, puoi proporti ai [relativi gestori attuali](#-gestori-repository-dellorganizzazione),
 > a Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)] o a un [membro del Consiglio Direttivo di Sapienza Students Network](https://sapienzastudents.net/sapienza-students-network/#-executive-board) —
 > anche attraverso l'apposito [bot Telegram di contatto](https://telegram.me/SapienzaStudentsNetworkBot).
+
+<a id="informatica-triennale"></a>
 
 ### 👨‍💻 Informatica (triennale)
 
@@ -72,6 +61,8 @@ così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repos
 
   - [Modelli e Ottimizzazione (Optimization)](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione)
 
+<a id="computer-science-masters"></a>
+
 ### 🧑‍🔬 Computer Science (master's)
 
 - [Cryptography](https://github.com/sapienzastudentsnetwork/cryptography)
@@ -106,11 +97,13 @@ così come siamo aperti in qualsiasi momento a eventuali proposte di nuovi repos
 
 ### 🌐 sapienzastudents.net
 
-Progetto collaborativo di un [Sito Web](https://sapienzastudents.net) delle studentesse e gli studenti dei Corsi di Laurea afferenti al Dipartimento di Informatica a Sapienza. Vuoi contribuire anche tu al progetto? [Scopri come](https://sapienzastudents.net/it/contribuire/come-contribuire/)!
+[**sapienzastudents.net**](https://sapienzastudents.net) è il sito web collaborativo e open source curato da studenti e studentesse per raccogliere in un unico spazio wiki, guide, orari, risorse e strumenti utili alla vita universitaria. Il progetto è nato attorno ai Corsi di Laurea afferenti al Dipartimento di Informatica della Sapienza e continua a crescere grazie ai contributi della community.
+
+Puoi consultare il [sito](https://sapienzastudents.net), esplorare il [repository GitHub](https://github.com/sapienzastudentsnetwork/sapienzastudentsnetwork.github.io) oppure [scoprire come contribuire](https://sapienzastudents.net/it/contribuire/come-contribuire/).
 
 ### 👥 SapienzaStudentsBot
 
-[SapienzaStudentsBot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot) è il progetto di un [bot Telegram](https://t.me/SapienzaStudentsBot) che serve da navigatore per gruppi gestiti da studentesse e studenti dell'ateneo, facilitandone l'indicizzazione e la ricerca, soprattutto per aspiranti matricole.
+[SapienzaStudentsBot](https://github.com/sapienzastudentsnetwork/sapienzastudentsbot) è un [bot Telegram](https://t.me/SapienzaStudentsBot) open source che indicizza i gruppi gestiti da studenti e studentesse dell'ateneo e permette di cercarli e raggiungerli più facilmente, risultando particolarmente utile anche per aspiranti matricole e nuovi iscritti.
 
 ## 👷 Gestori repository dell'organizzazione
 
